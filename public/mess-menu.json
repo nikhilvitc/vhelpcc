@@ -1,0 +1,220 @@
+{
+  "messHalls": [
+    {
+      "id": "central-mess",
+      "name": "Central Mess",
+      "description": "Main dining hall with variety of cuisines",
+      "month": "January 2024",
+      "weeklyMenu": [
+        {
+          "day": "Monday",
+          "menu": "Breakfast: Idli, Sambar, Chutney | Lunch: Rice, Dal, Chicken Curry, Chapati | Dinner: Fried Rice, Manchurian, Soup"
+        },
+        {
+          "day": "Tuesday", 
+          "menu": "Breakfast: Poha, Tea, Banana | Lunch: Rice, Rajma, Aloo Sabzi, Roti | Dinner: Pasta, Garlic Bread, Salad"
+        },
+        {
+          "day": "Wednesday",
+          "menu": "Breakfast: Upma, Coffee, Biscuits | Lunch: Rice, Fish Curry, Bhindi, Chapati | Dinner: Biryani, Raita, Pickle"
+        },
+        {
+          "day": "Thursday",
+          "menu": "Breakfast: Paratha, Curd, Pickle | Lunch: Rice, Sambar, Paneer Curry, Roti | Dinner: Noodles, Spring Rolls, Soup"
+        },
+        {
+          "day": "Friday",
+          "menu": "Breakfast: Dosa, Sambar, Chutney | Lunch: Rice, Chicken Curry, Mixed Veg, Chapati | Dinner: Pizza, Garlic Bread, Cold Drink"
+        },
+        {
+          "day": "Saturday",
+          "menu": "Breakfast: Bread, Butter, Jam, Milk | Lunch: Rice, Mutton Curry, Dal, Roti | Dinner: Burger, Fries, Shake"
+        },
+        {
+          "day": "Sunday",
+          "menu": "Breakfast: Puri, Aloo Sabzi, Halwa | Lunch: Special Thali, Sweet | Dinner: Chinese Combo, Ice Cream"
+        }
+      ]
+    },
+    {
+      "id": "north-mess",
+      "name": "North Campus Mess",
+      "description": "Vegetarian specialties and North Indian cuisine",
+      "month": "February 2024",
+      "weeklyMenu": [
+        {
+          "day": "Monday",
+          "menu": "Breakfast: Aloo Paratha, Curd, Pickle | Lunch: Rice, Dal Makhani, Paneer, Roti | Dinner: Rajma Rice, Papad, Lassi"
+        },
+        {
+          "day": "Tuesday",
+          "menu": "Breakfast: Poha, Jalebi, Tea | Lunch: Rice, Chole, Bhatura, Salad | Dinner: Veg Biryani, Raita, Sweet"
+        },
+        {
+          "day": "Wednesday", 
+          "menu": "Breakfast: Upma, Coconut Chutney | Lunch: Rice, Kadhi, Aloo Gobi, Chapati | Dinner: Pav Bhaji, Onion, Buttermilk"
+        },
+        {
+          "day": "Thursday",
+          "menu": "Breakfast: Idli, Vada, Sambar | Lunch: Rice, Dal, Palak Paneer, Roti | Dinner: Pasta, Garlic Bread, Soup"
+        },
+        {
+          "day": "Friday",
+          "menu": "Breakfast: Dosa, Potato Curry | Lunch: Rice, Sambhar, Cabbage, Chapati | Dinner: Pizza, Cold Drink, Dessert"
+        },
+        {
+          "day": "Saturday",
+          "menu": "Breakfast: Bread Pakora, Chutney | Lunch: Rice, Rajma, Mixed Veg, Roti | Dinner: Noodles, Manchurian, Soup"
+        },
+        {
+          "day": "Sunday",
+          "menu": "Breakfast: Puri, Aloo Sabzi, Halwa | Lunch: Special Veg Thali, Kheer | Dinner: Burger, Fries, Milkshake"
+        }
+      ]
+    },
+    {
+      "id": "south-mess",
+      "name": "South Campus Mess", 
+      "description": "South Indian delicacies and traditional meals",
+      "month": "March 2024",
+      "weeklyMenu": [
+        {
+          "day": "Monday",
+          "menu": "Breakfast: Medu Vada, Sambar, Chutney | Lunch: Rice, Rasam, Fish Curry, Chapati | Dinner: Lemon Rice, Pickle, Curd"
+        },
+        {
+          "day": "Tuesday",
+          "menu": "Breakfast: Rava Dosa, Potato Curry | Lunch: Rice, Dal, Chicken Fry, Roti | Dinner: Biryani, Boiled Egg, Raita"
+        },
+        {
+          "day": "Wednesday",
+          "menu": "Breakfast: Idli, Coconut Chutney | Lunch: Rice, Sambar, Beans Curry, Chapati | Dinner: Fried Rice, Gobi Manchurian"
+        },
+        {
+          "day": "Thursday", 
+          "menu": "Breakfast: Uttapam, Sambar | Lunch: Rice, Rasam, Mutton Curry, Roti | Dinner: Pasta, Garlic Bread, Soup"
+        },
+        {
+          "day": "Friday",
+          "menu": "Breakfast: Pesarattu, Ginger Chutney | Lunch: Rice, Dal, Fish Fry, Chapati | Dinner: Pizza, French Fries, Shake"
+        },
+        {
+          "day": "Saturday",
+          "menu": "Breakfast: Pongal, Sambar, Chutney | Lunch: Rice, Chicken Curry, Okra, Roti | Dinner: Chinese Combo, Ice Cream"
+        },
+        {
+          "day": "Sunday",
+          "menu": "Breakfast: Dosa, Potato Curry, Coffee | Lunch: Special South Indian Thali, Payasam | Dinner: Burger, Onion Rings, Cold Drink"
+        }
+      ]
+    },
+    {
+      "id": "hostel-mess",
+      "name": "Hostel Mess",
+      "description": "Quick meals and snacks for hostel residents", 
+      "month": "April 2024",
+      "weeklyMenu": [
+        {
+          "day": "Monday",
+          "menu": "Breakfast: Bread, Omelette, Tea | Lunch: Rice, Dal, Chicken, Chapati | Dinner: Maggi, Sandwich, Milk"
+        },
+        {
+          "day": "Tuesday",
+          "menu": "Breakfast: Poha, Banana, Coffee | Lunch: Rice, Rajma, Aloo, Roti | Dinner: Fried Rice, Soup, Biscuits"
+        },
+        {
+          "day": "Wednesday",
+          "menu": "Breakfast: Upma, Pickle, Tea | Lunch: Rice, Sambar, Fish, Chapati | Dinner: Noodles, Egg Roll, Juice"
+        },
+        {
+          "day": "Thursday",
+          "menu": "Breakfast: Paratha, Curd, Pickle | Lunch: Rice, Dal, Paneer, Roti | Dinner: Pasta, Garlic Bread, Soup"
+        },
+        {
+          "day": "Friday",
+          "menu": "Breakfast: Dosa, Chutney, Coffee | Lunch: Rice, Chicken Curry, Cabbage, Chapati | Dinner: Pizza, Cold Drink, Cake"
+        },
+        {
+          "day": "Saturday", 
+          "menu": "Breakfast: Bread, Jam, Milk | Lunch: Rice, Mutton, Mixed Veg, Roti | Dinner: Burger, Fries, Shake"
+        },
+        {
+          "day": "Sunday",
+          "menu": "Breakfast: Puri, Aloo, Halwa | Lunch: Special Thali, Sweet | Dinner: Chinese Platter, Ice Cream"
+        }
+      ]
+    },
+    {
+      "id": "faculty-mess",
+      "name": "Faculty Mess",
+      "description": "Premium dining for faculty and staff members",
+      "month": "May 2024", 
+      "weeklyMenu": [
+        {
+          "day": "Monday",
+          "menu": "Breakfast: Continental Breakfast, Fresh Fruits | Lunch: Multi-cuisine Buffet, Dessert | Dinner: A-la-carte Menu, Wine"
+        },
+        {
+          "day": "Tuesday",
+          "menu": "Breakfast: South Indian Breakfast, Filter Coffee | Lunch: North Indian Thali, Lassi | Dinner: Chinese Cuisine, Green Tea"
+        },
+        {
+          "day": "Wednesday",
+          "menu": "Breakfast: Healthy Bowl, Fresh Juice | Lunch: Mediterranean Menu, Soup | Dinner: Italian Cuisine, Mocktail"
+        },
+        {
+          "day": "Thursday",
+          "menu": "Breakfast: Traditional Indian, Masala Tea | Lunch: Tandoor Specials, Kulfi | Dinner: Continental Menu, Coffee"
+        },
+        {
+          "day": "Friday",
+          "menu": "Breakfast: American Breakfast, Orange Juice | Lunch: Seafood Specials, Sorbet | Dinner: BBQ Night, Beer"
+        },
+        {
+          "day": "Saturday",
+          "menu": "Breakfast: Brunch Menu, Smoothies | Lunch: Regional Cuisine, Traditional Sweet | Dinner: Fine Dining, Champagne"
+        },
+        {
+          "day": "Sunday",
+          "menu": "Breakfast: Luxury Breakfast, Exotic Fruits | Lunch: Sunday Special Buffet, Premium Dessert | Dinner: Chef's Special, Premium Beverages"
+        }
+      ]
+    },
+    {
+      "id": "canteen",
+      "name": "Student Canteen",
+      "description": "Affordable meals and snacks for students",
+      "month": "June 2024",
+      "weeklyMenu": [
+        {
+          "day": "Monday", 
+          "menu": "Breakfast: Vada Pav, Tea, Samosa | Lunch: Rice, Dal, Sabzi, Roti | Dinner: Maggi, Sandwich, Cold Drink"
+        },
+        {
+          "day": "Tuesday",
+          "menu": "Breakfast: Bread Pakora, Chutney, Coffee | Lunch: Rice, Rajma, Aloo, Chapati | Dinner: Fried Rice, Spring Roll, Juice"
+        },
+        {
+          "day": "Wednesday",
+          "menu": "Breakfast: Poha, Jalebi, Tea | Lunch: Rice, Sambar, Chicken, Roti | Dinner: Noodles, Momos, Soup"
+        },
+        {
+          "day": "Thursday",
+          "menu": "Breakfast: Idli, Vada, Sambar | Lunch: Rice, Dal, Fish, Chapati | Dinner: Pasta, Garlic Bread, Shake"
+        },
+        {
+          "day": "Friday",
+          "menu": "Breakfast: Dosa, Chutney, Coffee | Lunch: Rice, Chicken Curry, Mixed Veg, Roti | Dinner: Pizza Slice, Fries, Coke"
+        },
+        {
+          "day": "Saturday",
+          "menu": "Breakfast: Paratha, Pickle, Lassi | Lunch: Rice, Mutton, Dal, Chapati | Dinner: Burger, Onion Rings, Milkshake"
+        },
+        {
+          "day": "Sunday",
+          "menu": "Breakfast: Puri, Aloo, Sweet | Lunch: Special Combo Meal, Ice Cream | Dinner: Chinese Combo, Cold Coffee"
+        }
+      ]
+    }
+  ]
+}

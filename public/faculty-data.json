@@ -1,0 +1,3665 @@
+{
+  "faculties": [
+    {
+      "empId": "51430",
+      "prefix": "Prof.",
+      "name": "T Abul Hassan",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 6th Floor"
+    },
+    {
+      "empId": "50586",
+      "prefix": "Dr.",
+      "name": "Sanjit Das",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor, Cabin No. 4"
+    },
+    {
+      "empId": "50064",
+      "prefix": "Dr.",
+      "name": "Sathis Kumar B",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN, Cabin 311"
+    },
+    {
+      "empId": "51687",
+      "prefix": "Dr.",
+      "name": "B Ajitha",
+      "school": "SAS",
+      "cabinDetail": "AB2-7th Floor– Cabin No.4"
+    },
+    {
+      "empId": "52196",
+      "prefix": "Prof.",
+      "name": "Marasakatla Madhavi",
+      "school": "VITSOL",
+      "cabinDetail": "Health Centre 3rd Floor"
+    },
+    {
+      "empId": "50391",
+      "prefix": "Dr.",
+      "name": "Rabindra Kumar Singh",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN Cabin 4"
+    },
+    {
+      "empId": "50593",
+      "prefix": "Dr.",
+      "name": "Raghukiran Nadimpalli",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr Faculty Cabin - R # 07"
+    },
+    {
+      "empId": "50072",
+      "prefix": "Dr.",
+      "name": "Deepa Damodaran",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 4th floor, Room No 406"
+    },
+    {
+      "empId": "51465",
+      "prefix": "Dr.",
+      "name": "Ilaiyaraja Perumal",
+      "school": "SAS",
+      "cabinDetail": "Alpha Block, 2nd floor, S-4"
+    },
+    {
+      "empId": "52193",
+      "prefix": "Dr.",
+      "name": "Bhuvaneswari Amma N.G.",
+      "school": "SCOPE",
+      "cabinDetail": "ABII - 4th Floor"
+    },
+    {
+      "empId": "50138",
+      "prefix": "Dr.",
+      "name": "Vergin Raja Sarobin M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN Cabin 3"
+    },
+    {
+      "empId": "51703",
+      "prefix": "Dr.",
+      "name": "B Prashanth Kumar",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50476",
+      "prefix": "Dr.",
+      "name": "Alan G",
+      "school": "SSL",
+      "cabinDetail": "AB1, I Floor - New Annex, Cabin No.13"
+    },
+    {
+      "empId": "50781",
+      "prefix": "Dr.",
+      "name": "Rajavenkatesan P R L",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No.14"
+    },
+    {
+      "empId": "50617",
+      "prefix": "Dr.",
+      "name": "Ananiah Durai S",
+      "school": "SENSE",
+      "cabinDetail": "AB1/7th floor/VLSI Lab/706"
+    },
+    {
+      "empId": "51149",
+      "prefix": "Dr.",
+      "name": "Venkatachalam G",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - Anx I - R # 05"
+    },
+    {
+      "empId": "51347",
+      "prefix": "Dr.",
+      "name": "Bhuvaneswari A",
+      "school": "SCOPE",
+      "cabinDetail": "AB2 - 2F MAIN Cabin 4"
+    },
+    {
+      "empId": "50460",
+      "prefix": "Dr.",
+      "name": "Bhuvaneswari R",
+      "school": "SSL",
+      "cabinDetail": "AB1, I Floor - New Annex, Cabin No. 12"
+    },
+    {
+      "empId": "50239",
+      "prefix": "Prof.",
+      "name": "Khadar Nawas K",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F Annexure Cabin 9"
+    },
+    {
+      "empId": "50591",
+      "prefix": "Dr.",
+      "name": "Bala Murugan M S",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/IoT Lab/505A"
+    },
+    {
+      "empId": "50283",
+      "prefix": "Dr.",
+      "name": "Manikandan P",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/13"
+    },
+    {
+      "empId": "51455",
+      "prefix": "Dr.",
+      "name": "Om Prakash Sahu",
+      "school": "SENSE",
+      "cabinDetail": "AB2/5th floor/Advance Battery Lab/505"
+    },
+    {
+      "empId": "50594",
+      "prefix": "Dr.",
+      "name": "Vaithilingam C",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor. 607-Power System Simulation lab"
+    },
+    {
+      "empId": "50103",
+      "prefix": "Dr.",
+      "name": "Kaliyappan M",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor-Annex, Cabin No. 9"
+    },
+    {
+      "empId": "50505",
+      "prefix": "Prof.",
+      "name": "Vasugi K",
+      "school": "SCE",
+      "cabinDetail": "AB I - 4th Flr - Anx I - R # 10"
+    },
+    {
+      "empId": "51340",
+      "prefix": "Prof.",
+      "name": "Pooja Raghav",
+      "school": "SSL",
+      "cabinDetail": "Sigma Block, II Floor, Cabin No.8"
+    },
+    {
+      "empId": "50950",
+      "prefix": "Dr.",
+      "name": "Shanmugasundaram",
+      "school": "SCE",
+      "cabinDetail": "AB II- III Floor, Faculty Cabin.No.6"
+    },
+    {
+      "empId": "51745",
+      "prefix": "Prof.",
+      "name": "Arun D Raj",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 4th Floor"
+    },
+    {
+      "empId": "51749",
+      "prefix": "Dr.",
+      "name": "Richards Joe Stanislaus",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50562",
+      "prefix": "Dr.",
+      "name": "Chitra K",
+      "school": "SENSE",
+      "cabinDetail": "AB1/6th floor/Annxure/06"
+    },
+    {
+      "empId": "51740",
+      "prefix": "Dr.",
+      "name": "Jayendra Kasture",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No: 6"
+    },
+    {
+      "empId": "50588",
+      "prefix": "Dr.",
+      "name": "Navamathavan R",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor, Cabin No. 10"
+    },
+    {
+      "empId": "51743",
+      "prefix": "Dr.",
+      "name": "Vijayakumar K P",
+      "school": "SCOPE",
+      "cabinDetail": "Sigma Block - Cabin 9"
+    },
+    {
+      "empId": "50417",
+      "prefix": "Dr.",
+      "name": "Prassanna J",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 29"
+    },
+    {
+      "empId": "50128",
+      "prefix": "Dr.",
+      "name": "Hemamalini",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor, Room No 604, 16th Cabin"
+    },
+    {
+      "empId": "50771",
+      "prefix": "Dr.",
+      "name": "Gunabalan R",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th floor , Cabin No 1"
+    },
+    {
+      "empId": "51343",
+      "prefix": "Dr.",
+      "name": "Kirthica S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1-206 LAB (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "50151",
+      "prefix": "Dr.",
+      "name": "Sugumaran V",
+      "school": "SMEC",
+      "cabinDetail": "AB II - 1st Floor, SMBS Research Lab - 102"
+    },
+    {
+      "empId": "51015",
+      "prefix": "Dr.",
+      "name": "Ganesan K",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No: 4"
+    },
+    {
+      "empId": "50301",
+      "prefix": "Dr.",
+      "name": "Rajkumar S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F MAIN Cabin 5"
+    },
+    {
+      "empId": "51657",
+      "prefix": "Dr.",
+      "name": "Pavithra L K",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 1F Cabin 6"
+    },
+    {
+      "empId": "50273",
+      "prefix": "Dr.",
+      "name": "Meera P S",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th, 703A-Protection & Switchgear lab, 303A"
+    },
+    {
+      "empId": "52200",
+      "prefix": "Dr.",
+      "name": "Priyadarshini Ramasubramanian",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 503 - Cubical 2"
+    },
+    {
+      "empId": "50731",
+      "prefix": "Dr.",
+      "name": "Jeyanthi S",
+      "school": "SMEC",
+      "cabinDetail": "AB I - GF 006 - Strenght of Materials Lab"
+    },
+    {
+      "empId": "50076",
+      "prefix": "Dr.",
+      "name": "Kalyani Desikan",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor- Annex, Cabin No. 5"
+    },
+    {
+      "empId": "51946",
+      "prefix": "Dr.",
+      "name": "Kalaipriyan T",
+      "school": "SCOPE",
+      "cabinDetail": "IB - 2F Cabin 16"
+    },
+    {
+      "empId": "50024",
+      "prefix": "Dr.",
+      "name": "Pradeep Kumar T.S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN, Cabin 311"
+    },
+    {
+      "empId": "50766",
+      "prefix": "Dr.",
+      "name": "Jayanta Parui",
+      "school": "SAS",
+      "cabinDetail": "Alpha Block, 1st Floor, Cabin No.7"
+    },
+    {
+      "empId": "50041",
+      "prefix": "Dr.",
+      "name": "Joseph Jeya Anand S",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 4th floor, Room No 406"
+    },
+    {
+      "empId": "51693",
+      "prefix": "Dr.",
+      "name": "Swati Sharma",
+      "school": "SSL",
+      "cabinDetail": "Sigma Block, 2nd floor, Cabin-11"
+    },
+    {
+      "empId": "52205",
+      "prefix": "Dr.",
+      "name": "M C Ramkumar",
+      "school": "SAS",
+      "cabinDetail": "AB-1, 5th Floor, 503, Cabin No.6"
+    },
+    {
+      "empId": "50499",
+      "prefix": "Dr.",
+      "name": "Maya Rathnasabapathy",
+      "school": "SSL",
+      "cabinDetail": "AB2, 7th Floor, (Psycometric Lab) Cabin No.1"
+    },
+    {
+      "empId": "51074",
+      "prefix": "Dr.",
+      "name": "Felix.A",
+      "school": "SAS",
+      "cabinDetail": "Alpha Block, II Floor, S-3"
+    },
+    {
+      "empId": "50017",
+      "prefix": "Dr.",
+      "name": "Hari Krishnan K",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 4th floor, Room No 406"
+    },
+    {
+      "empId": "50443",
+      "prefix": "Dr.",
+      "name": "Nithyanandam P",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 16"
+    },
+    {
+      "empId": "50909",
+      "prefix": "Dr.",
+      "name": "Tania Sebastian",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No:1"
+    },
+    {
+      "empId": "50140",
+      "prefix": "Dr.",
+      "name": "Muthunagai",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor-Annex, Cabin No. 4"
+    },
+    {
+      "empId": "50378",
+      "prefix": "Dr.",
+      "name": "Umamaheswari E",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - IF Annexure Cabin 8"
+    },
+    {
+      "empId": "50184",
+      "prefix": "Dr.",
+      "name": "Saroj Kumar Dash",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor, Cabin No. 8"
+    },
+    {
+      "empId": "51662",
+      "prefix": "Dr.",
+      "name": "Anita X",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 2F Cabin 3"
+    },
+    {
+      "empId": "50270",
+      "prefix": "Dr.",
+      "name": "Vijayalakshmi A",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F ANNEXURE Cabin 6"
+    },
+    {
+      "empId": "50604",
+      "prefix": "Dr.",
+      "name": "Sangeetha R G",
+      "school": "SENSE",
+      "cabinDetail": "AB2/1st Floor/Fibre Optic Lab/"
+    },
+    {
+      "empId": "50619",
+      "prefix": "Dr.",
+      "name": "Berlin Hency V",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/10"
+    },
+    {
+      "empId": "51956",
+      "prefix": "Dr.",
+      "name": "Subhamitra Patra",
+      "school": "VITBS",
+      "cabinDetail": "sigma, 2nd floor , Room No 21"
+    },
+    {
+      "empId": "50923",
+      "prefix": "Dr.",
+      "name": "Sumathi V",
+      "school": "SELECT",
+      "cabinDetail": "AB2, 2nd floor, Faculty Cabin No 6"
+    },
+    {
+      "empId": "51949",
+      "prefix": "Dr.",
+      "name": "Suganeshwari G",
+      "school": "SCOPE",
+      "cabinDetail": "HEALTH CENTRE 2F, Cabin"
+    },
+    {
+      "empId": "50178",
+      "prefix": "Dr.",
+      "name": "Appalaraju Muralidhar",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F Annexure Cabin 3"
+    },
+    {
+      "empId": "51665",
+      "prefix": "Dr.",
+      "name": "Amrit Pal",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 6F Main Cabin 8"
+    },
+    {
+      "empId": "51942",
+      "prefix": "Dr.",
+      "name": "David Raj Micheal",
+      "school": "SAS",
+      "cabinDetail": "AB1, 2nd floor, Cabin No. 14"
+    },
+    {
+      "empId": "50136",
+      "prefix": "Dr.",
+      "name": "Maheswari R",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F Annexure Cabin 10"
+    },
+    {
+      "empId": "50139",
+      "prefix": "Dr.",
+      "name": "Kanchana Bhaaskaran V S",
+      "school": "SENSE",
+      "cabinDetail": "ADMN Block/1st floor /PROVC Office"
+    },
+    {
+      "empId": "50302",
+      "prefix": "Dr.",
+      "name": "Tamil Selvan P",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 5th Flr - Anx I - R # 02"
+    },
+    {
+      "empId": "50305",
+      "prefix": "Dr.",
+      "name": "Helen Santhi M",
+      "school": "SCE",
+      "cabinDetail": "AB I - 1st Flr (New Anx) - Faculty Cabin - R # 10"
+    },
+    {
+      "empId": "50175",
+      "prefix": "Dr.",
+      "name": "Manikandan N",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor-Annex, Cabin No. 2"
+    },
+    {
+      "empId": "50201",
+      "prefix": "Dr.",
+      "name": "Ummity Srinivasa Rao",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F Annexure Cabin 10"
+    },
+    {
+      "empId": "51668",
+      "prefix": "Dr.",
+      "name": "Bhanu Chander Balusa",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 2F Cabin 6"
+    },
+    {
+      "empId": "51964",
+      "prefix": "Dr.",
+      "name": "Balaji S",
+      "school": "SAS",
+      "cabinDetail": "AB1, 2nd floor, Cabin No.16"
+    },
+    {
+      "empId": "50004",
+      "prefix": "Dr.",
+      "name": "Janardhan Reddy K",
+      "school": "SMEC",
+      "cabinDetail": "Valeo Lab ABI Ground Floor Annexure"
+    },
+    {
+      "empId": "51453",
+      "prefix": "Dr.",
+      "name": "Manali Karmakar",
+      "school": "SSL",
+      "cabinDetail": "Alpha Block, 1st Floor, F-10"
+    },
+    {
+      "empId": "50154",
+      "prefix": "Dr.",
+      "name": "Rukmani P",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN, Cabin 2"
+    },
+    {
+      "empId": "50395",
+      "prefix": "Dr.",
+      "name": "Sreekanth Dondapati",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - Anx I - R # 13 ( Deans Cabin)"
+    },
+    {
+      "empId": "50050",
+      "prefix": "Dr.",
+      "name": "Atanu Dutta",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor, Physics Lab"
+    },
+    {
+      "empId": "51708",
+      "prefix": "Dr.",
+      "name": "S.Sivakumar",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50790",
+      "prefix": "Dr.",
+      "name": "Gopinathan N",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 3th floor, Room No 406"
+    },
+    {
+      "empId": "50441",
+      "prefix": "Dr.",
+      "name": "Vijayakumar P",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Communication Lab/505"
+    },
+    {
+      "empId": "50425",
+      "prefix": "Dr.",
+      "name": "Ramesh R",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/06"
+    },
+    {
+      "empId": "50361",
+      "prefix": "Dr.",
+      "name": "Yamini Sreevalli I",
+      "school": "SCE",
+      "cabinDetail": "AB I - 4th Flr Faculty Cabin - R #16"
+    },
+    {
+      "empId": "50185",
+      "prefix": "Dr.",
+      "name": "Sathyarajasekaran K",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F Annexure Cabin 5"
+    },
+    {
+      "empId": "50155",
+      "prefix": "Dr.",
+      "name": "Meenakshi J",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor, Room No 604, 9th Cabin"
+    },
+    {
+      "empId": "50393",
+      "prefix": "Dr.",
+      "name": "Ramesh Ragala",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F 208 Lab ((Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "51722",
+      "prefix": "Dr.",
+      "name": "Bhisham Kumar Dhurandher",
+      "school": "SMEC",
+      "cabinDetail": "Sigma Block II Floor Right Wing - Cabin No. 2"
+    },
+    {
+      "empId": "50070",
+      "prefix": "Prof.",
+      "name": "Savariah Xavier Y C",
+      "school": "SSL",
+      "cabinDetail": "AB2, 7th floor, Cabin No. 5"
+    },
+    {
+      "empId": "51329",
+      "prefix": "Dr.",
+      "name": "Ilavarasi A. K",
+      "school": "SCOPE",
+      "cabinDetail": "AB2 - 3F, MAIN Cabin 3"
+    },
+    {
+      "empId": "50567",
+      "prefix": "Dr.",
+      "name": "Anjali Gopakumar",
+      "school": "SCE",
+      "cabinDetail": "AB I - 7th Flr - Faculty Cabin - R # 5"
+    },
+    {
+      "empId": "51758",
+      "prefix": "Prof.",
+      "name": "Dulung Sengupta",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 6th Floor"
+    },
+    {
+      "empId": "50063",
+      "prefix": "Dr.",
+      "name": "Sajidha S A",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F Annexure Cabin 14"
+    },
+    {
+      "empId": "50461",
+      "prefix": "Prof.",
+      "name": "Rajitha K",
+      "school": "SSL",
+      "cabinDetail": "AB1, I Floor - New Annex, Cabin No. 1"
+    },
+    {
+      "empId": "50389",
+      "prefix": "Dr.",
+      "name": "Tulasi Prasad Sariki",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 6F MAIN Cabin 3"
+    },
+    {
+      "empId": "51348",
+      "prefix": "Prof.",
+      "name": "Jesica Roshima A",
+      "school": "VFIT",
+      "cabinDetail": "admin block , 6th floor"
+    },
+    {
+      "empId": "50786",
+      "prefix": "Dr.",
+      "name": "Mohamed Imran A",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th, Annex, No 3"
+    },
+    {
+      "empId": "50418",
+      "prefix": "Dr.",
+      "name": "Chandrasekaran N",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annexure/15"
+    },
+    {
+      "empId": "50430",
+      "prefix": "Prof.",
+      "name": "Prabakaran R",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 30"
+    },
+    {
+      "empId": "51141",
+      "prefix": "Dr.",
+      "name": "Jayagopal R",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor - Cabin No.15"
+    },
+    {
+      "empId": "50200",
+      "prefix": "Dr.",
+      "name": "Punithavelan N",
+      "school": "SAS",
+      "cabinDetail": "AB1, 2nd Annex, Cabin No. 5"
+    },
+    {
+      "empId": "50501",
+      "prefix": "Dr.",
+      "name": "Deivanathan R",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - Anx I - R # 01"
+    },
+    {
+      "empId": "50379",
+      "prefix": "Dr.",
+      "name": "Siva Kumar R",
+      "school": "SMEC",
+      "cabinDetail": "AB II - 1st Floor, SMBS Research Lab - 102"
+    },
+    {
+      "empId": "50152",
+      "prefix": "Dr.",
+      "name": "Febin Daya J L",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor, Annex, 2nd Cabin"
+    },
+    {
+      "empId": "52203",
+      "prefix": "Dr.",
+      "name": "Divya Muraleedharan",
+      "school": "SSL",
+      "cabinDetail": "AB-1, 1st Floor, Cabin-6"
+    },
+    {
+      "empId": "50167",
+      "prefix": "Dr.",
+      "name": "Bhaskara Rao L",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr Anx I Cabin - R # 08"
+    },
+    {
+      "empId": "50403",
+      "prefix": "Dr.",
+      "name": "Rajesh M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - IF NEW Annexure Cabin 4"
+    },
+    {
+      "empId": "51770",
+      "prefix": "Dr.",
+      "name": "Chithra G.K.",
+      "school": "SSL",
+      "cabinDetail": "Sigma Block, 2nd floor, Cabin No12"
+    },
+    {
+      "empId": "51721",
+      "prefix": "Dr.",
+      "name": "Ranjeet Kumar",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50600",
+      "prefix": "Dr.",
+      "name": "Balaji J",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 4th floor, Room No 408"
+    },
+    {
+      "empId": "50564",
+      "prefix": "Dr.",
+      "name": "Hemanth C",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annexure/32"
+    },
+    {
+      "empId": "51729",
+      "prefix": "Dr.",
+      "name": "Ayub Ahmed Janvekar",
+      "school": "SMEC",
+      "cabinDetail": "Sigma Block II Floor Right Wing - Cabin No. 22"
+    },
+    {
+      "empId": "50331",
+      "prefix": "Dr.",
+      "name": "Senthil Kumar M",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr Faculty Cabin - R # 06"
+    },
+    {
+      "empId": "50879",
+      "prefix": "Dr.",
+      "name": "Rajalakshmi R",
+      "school": "SCOPE",
+      "cabinDetail": "HEALTH CENTRE, 1F, Cabin 12"
+    },
+    {
+      "empId": "51963",
+      "prefix": "Dr.",
+      "name": "Manigandla Prasannalakshmi",
+      "school": "SAS",
+      "cabinDetail": "Sigma Block, 2nd Floor, Cabin No:27"
+    },
+    {
+      "empId": "51651",
+      "prefix": "Dr.",
+      "name": "Muthukumaran K",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 1F Cabin 1"
+    },
+    {
+      "empId": "50917",
+      "prefix": "Dr.",
+      "name": "Santosh G",
+      "school": "SAS",
+      "cabinDetail": "AB1, I floor, Cabin No. 4"
+    },
+    {
+      "empId": "52055",
+      "prefix": "Dr.",
+      "name": "RAJASEKARAKUMAR VADAPOO",
+      "school": "SAS",
+      "cabinDetail": "AB2-7th Floor– Cabin No.2"
+    },
+    {
+      "empId": "50438",
+      "prefix": "Dr.",
+      "name": "Suganya G",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 12"
+    },
+    {
+      "empId": "50583",
+      "prefix": "Dr.",
+      "name": "Ravi V",
+      "school": "SENSE",
+      "cabinDetail": "AB1/6th floor/Annexure/08"
+    },
+    {
+      "empId": "50240",
+      "prefix": "Dr.",
+      "name": "Govindarajan P",
+      "school": "SSL",
+      "cabinDetail": "AB1, I Floor-Annex, Cabin No. 10"
+    },
+    {
+      "empId": "50148",
+      "prefix": "Dr.",
+      "name": "Tanushree Choudhry",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor - Annexure, Cabin-2"
+    },
+    {
+      "empId": "51073",
+      "prefix": "Prof.",
+      "name": "N Gayathri",
+      "school": "VFIT",
+      "cabinDetail": "admin block, 8th floor - VFIT school"
+    },
+    {
+      "empId": "51672",
+      "prefix": "Dr.",
+      "name": "Rishikeshan C. A.",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 3F Cabin 2"
+    },
+    {
+      "empId": "50431",
+      "prefix": "Dr.",
+      "name": "Srutha Keerthi B",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor - New Annex, Cabin No.10"
+    },
+    {
+      "empId": "51953",
+      "prefix": "Dr.",
+      "name": "Buvanesh",
+      "school": "VITBS",
+      "cabinDetail": "sigma, 2nd floor , Room No 19"
+    },
+    {
+      "empId": "50422",
+      "prefix": "Dr.",
+      "name": "Priyadarshini J",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 3"
+    },
+    {
+      "empId": "50264",
+      "prefix": "Dr.",
+      "name": "Senthil Kumar N",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor, Room No 604, 13th Cabin"
+    },
+    {
+      "empId": "50410",
+      "prefix": "Dr.",
+      "name": "Sandhya P",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - IF NEW Annexure, Cabin 14"
+    },
+    {
+      "empId": "51152",
+      "prefix": "Dr.",
+      "name": "R. Padmanabhan",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 3rd Flr - Student Welfare"
+    },
+    {
+      "empId": "50444",
+      "prefix": "Dr.",
+      "name": "Arockia Selvakumar",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - Anx I - R # 09"
+    },
+    {
+      "empId": "50370",
+      "prefix": "Prof.",
+      "name": "Rajesh Kumar",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 7F Annexure Cabin 10"
+    },
+    {
+      "empId": "51724",
+      "prefix": "Dr.",
+      "name": "Gajanand Gupta",
+      "school": "SMEC",
+      "cabinDetail": "Sigma Block II Floor Right Wing - Cabin No. 1"
+    },
+    {
+      "empId": "50570",
+      "prefix": "Dr.",
+      "name": "Angalaeswari S",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6TH Floor, Annex , No 1"
+    },
+    {
+      "empId": "50797",
+      "prefix": "Dr.",
+      "name": "Patchainayagi S",
+      "school": "SSL",
+      "cabinDetail": "AB2, Ground Floor, Cabin No.2"
+    },
+    {
+      "empId": "50409",
+      "prefix": "Prof.",
+      "name": "Ralph Samuel Thangaraj",
+      "school": "SENSE",
+      "cabinDetail": "AB1/1st floor/Annexure/05"
+    },
+    {
+      "empId": "51941",
+      "prefix": "Dr.",
+      "name": "Sujoy Sarkar",
+      "school": "SAS",
+      "cabinDetail": "Sigma Block, 2nd Floor, Cabin No:24"
+    },
+    {
+      "empId": "50007",
+      "prefix": "Dr.",
+      "name": "Sivagami M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F 206 LAB (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "50258",
+      "prefix": "Dr.",
+      "name": "Rajesh Kanna B",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 5F 506 LAB (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "50308",
+      "prefix": "Dr.",
+      "name": "Sivarajan S",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - Anx I - R # 03"
+    },
+    {
+      "empId": "51710",
+      "prefix": "Dr.",
+      "name": "S. Selvendran",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50336",
+      "prefix": "Dr.",
+      "name": "Sharon Sophia",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 3th floor, Room No 306"
+    },
+    {
+      "empId": "52203",
+      "prefix": "Dr.",
+      "name": "Harshavarthini Shanmugam",
+      "school": "SAS",
+      "cabinDetail": "AB-1, 5th Floor, 503, Cabin No.4"
+    },
+    {
+      "empId": "50066",
+      "prefix": "Dr.",
+      "name": "Revathi S",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annexure/10"
+    },
+    {
+      "empId": "50912",
+      "prefix": "Dr.",
+      "name": "Arul R",
+      "school": "SELECT",
+      "cabinDetail": "AB2, 1st floor, Faculty Cabin 5"
+    },
+    {
+      "empId": "50388",
+      "prefix": "Dr.",
+      "name": "Christy Jackson J",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW AnnexURE Cabin 20"
+    },
+    {
+      "empId": "52192",
+      "prefix": "Dr.",
+      "name": "P. Valarmathi",
+      "school": "SCOPE",
+      "cabinDetail": "ABII - 4th Floor"
+    },
+    {
+      "empId": "50036",
+      "prefix": "Dr.",
+      "name": "Nisha V.M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F Annexure Cabin 12"
+    },
+    {
+      "empId": "51142",
+      "prefix": "Dr.",
+      "name": "Jani Anbarasi L",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN Cabin 9"
+    },
+    {
+      "empId": "50784",
+      "prefix": "Dr.",
+      "name": "Karthiyaini S",
+      "school": "SCE",
+      "cabinDetail": "AB I - 5th Flr - Anx I - R # 01"
+    },
+    {
+      "empId": "50411",
+      "prefix": "Dr.",
+      "name": "Guga Priya G",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annexure/39"
+    },
+    {
+      "empId": "50913",
+      "prefix": "Dr.",
+      "name": "Ganapathy S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F 205B LAB (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "50329",
+      "prefix": "Dr.",
+      "name": "Pankaj Shukla",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor, Cabin No. 7"
+    },
+    {
+      "empId": "50386",
+      "prefix": "Dr.",
+      "name": "ADMNul Quadir Md",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 21"
+    },
+    {
+      "empId": "51950",
+      "prefix": "Dr.",
+      "name": "Urjani Chakravarty",
+      "school": "SSL",
+      "cabinDetail": "Sigma Block, 2nd floor, Cabin No:29"
+    },
+    {
+      "empId": "50592",
+      "prefix": "Dr.",
+      "name": "Saravanakumar R",
+      "school": "SAS",
+      "cabinDetail": "Alpha Block, 1st Floor, F1"
+    },
+    {
+      "empId": "50921",
+      "prefix": "Dr.",
+      "name": "Raja Rajeswari G",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 3th floor, Room No 308"
+    },
+    {
+      "empId": "51356",
+      "prefix": "Dr.",
+      "name": "Nisha R",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 6th floor"
+    },
+    {
+      "empId": "51058",
+      "prefix": "Dr.",
+      "name": "Ambika R Nair",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No: 7"
+    },
+    {
+      "empId": "50776",
+      "prefix": "Dr.",
+      "name": "Premalatha L",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 5th, Room No 504, 7th Faculty Cabin"
+    },
+    {
+      "empId": "51975",
+      "prefix": "Dr.",
+      "name": "Sankar D",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No.10"
+    },
+    {
+      "empId": "50083",
+      "prefix": "Dr.",
+      "name": "Sreedevi V T",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th floor, Annex, 7th Cabin"
+    },
+    {
+      "empId": "51659",
+      "prefix": "Dr.",
+      "name": "Shivani Gupta",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK- 2F Cabin 2"
+    },
+    {
+      "empId": "50271",
+      "prefix": "Dr.",
+      "name": "Ramesh Kannan M",
+      "school": "SCE",
+      "cabinDetail": "AB I - 5th Flr - Anx I - R # 03"
+    },
+    {
+      "empId": "51325",
+      "prefix": "Dr.",
+      "name": "Prasad M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F 311 Lab (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "50787",
+      "prefix": "Dr.",
+      "name": "Kesavamoorthy R",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No.11"
+    },
+    {
+      "empId": "51150",
+      "prefix": "Dr.",
+      "name": "Anandha Krishna Raj S",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 4th Floor"
+    },
+    {
+      "empId": "50143",
+      "prefix": "Dr.",
+      "name": "Vinitha G",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor-Annex, Cabin No. 9"
+    },
+    {
+      "empId": "51727",
+      "prefix": "Dr.",
+      "name": "Muralimohan",
+      "school": "SMEC",
+      "cabinDetail": "Sigma Block II Floor Right Wing - Cabin No. 3"
+    },
+    {
+      "empId": "50300",
+      "prefix": "Dr.",
+      "name": "Viswanathan V",
+      "school": "SCOPE",
+      "cabinDetail": "ADMIN BLOCK - 2F COE OFFICE"
+    },
+    {
+      "empId": "50400",
+      "prefix": "Dr.",
+      "name": "Gayathri R",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 22"
+    },
+    {
+      "empId": "51144",
+      "prefix": "Prof.",
+      "name": "Vinusowndarya",
+      "school": "VFIT",
+      "cabinDetail": "admin block, 8th floor - VFIT schoolVFIT"
+    },
+    {
+      "empId": "51711",
+      "prefix": "Dr.",
+      "name": "Florence Gnana Poovathy J",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50049",
+      "prefix": "Dr.",
+      "name": "Nithya Darisini P.S",
+      "school": "SCOPE",
+      "cabinDetail": "ADMN BLOCK-2F"
+    },
+    {
+      "empId": "50773",
+      "prefix": "Dr.",
+      "name": "Nagaraj S V",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 27"
+    },
+    {
+      "empId": "50407",
+      "prefix": "Dr.",
+      "name": "Muthulakshmi S",
+      "school": "SENSE",
+      "cabinDetail": "AB1/6th floor/Embedded Systems Lab-2/606A"
+    },
+    {
+      "empId": "50381",
+      "prefix": "Dr.",
+      "name": "Chendur Kumaran R",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor, Room No 604, 1st Cabin"
+    },
+    {
+      "empId": "51433",
+      "prefix": "Dr.",
+      "name": "Asi Vasu Deva Reddy",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 6th floor"
+    },
+    {
+      "empId": "50566",
+      "prefix": "Dr.",
+      "name": "Karunamurthy K",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 803 - HMT Lab"
+    },
+    {
+      "empId": "50038",
+      "prefix": "Dr.",
+      "name": "Srimathi R",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor, Room No 604, 6th Cabin"
+    },
+    {
+      "empId": "50352",
+      "prefix": "Dr.",
+      "name": "Jenila Livingston L M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F MAIN Cabin 1"
+    },
+    {
+      "empId": "50339",
+      "prefix": "Dr.",
+      "name": "Manavalla Sreekanth",
+      "school": "SMEC",
+      "cabinDetail": "AB II - GF 014 - Turbo Machines Lab"
+    },
+    {
+      "empId": "51717",
+      "prefix": "Dr.",
+      "name": "Sindhuja. M",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "51728",
+      "prefix": "Dr.",
+      "name": "Swagatika Mohanty",
+      "school": "SMEC",
+      "cabinDetail": "Sigma Block II Floor Left Wing - Cabin No. 3"
+    },
+    {
+      "empId": "50428",
+      "prefix": "Dr.",
+      "name": "Umadevi S",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/04"
+    },
+    {
+      "empId": "51690",
+      "prefix": "Dr.",
+      "name": "Vigneshwaran Swaminathan",
+      "school": "SAS",
+      "cabinDetail": "Sigma Block-Ist Floor"
+    },
+    {
+      "empId": "51658",
+      "prefix": "Dr.",
+      "name": "Parkavi K",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 2F Cabin 1"
+    },
+    {
+      "empId": "50404",
+      "prefix": "Prof.",
+      "name": "Rajiv Vincent",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - IF NEW Annexure Cabin 6"
+    },
+    {
+      "empId": "51021",
+      "prefix": "Dr.",
+      "name": "Sibaram Badatya",
+      "school": "SSL",
+      "cabinDetail": "Sigma Block, II Floor, Cabin No.10"
+    },
+    {
+      "empId": "50616",
+      "prefix": "Dr.",
+      "name": "Janaki Meena M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 6F 605B LAB (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "50147",
+      "prefix": "Dr.",
+      "name": "Kanimozhi G",
+      "school": "SELECT",
+      "cabinDetail": "AB1, Ground floor, Machines Lab, 2nd Cabin"
+    },
+    {
+      "empId": "51328",
+      "prefix": "Dr.",
+      "name": "Muthumanikandan V",
+      "school": "SCOPE",
+      "cabinDetail": "AB2 - 4F, MAIN Cabin 2"
+    },
+    {
+      "empId": "51747",
+      "prefix": "Dr.",
+      "name": "Tapan Kumar Mahanta",
+      "school": "SMEC",
+      "cabinDetail": "Sigma Block II Floor Right Wing - Cabin No. 6"
+    },
+    {
+      "empId": "51737",
+      "prefix": "Dr.",
+      "name": "Sudheer Muhammed K M",
+      "school": "VITBS",
+      "cabinDetail": "Delta block , 4th floor Room No 402, Cabin No 8"
+    },
+    {
+      "empId": "51010",
+      "prefix": "Dr.",
+      "name": "Tiwari Mahalaxmi Shivkumar",
+      "school": "SSL",
+      "cabinDetail": "Sigma Block, II Floor, Cabin No.9"
+    },
+    {
+      "empId": "51656",
+      "prefix": "Dr.",
+      "name": "Menaka Pushpa A",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 1F Cabin 5"
+    },
+    {
+      "empId": "51973",
+      "prefix": "Dr.",
+      "name": "Bhuvaneshwari Mohan",
+      "school": "VFIT",
+      "cabinDetail": "Sigma block - above health centre - first floor, f2 Cabin"
+    },
+    {
+      "empId": "50385",
+      "prefix": "Dr.",
+      "name": "Vigneswaran T",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annexure/38"
+    },
+    {
+      "empId": "51330",
+      "prefix": "Prof.",
+      "name": "M Maanvizhi",
+      "school": "VFIT",
+      "cabinDetail": "admin block, 8th floor - VFIT school GC lab"
+    },
+    {
+      "empId": "50287",
+      "prefix": "Dr.",
+      "name": "Prabhakar M",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor, Room No 604, 14th Cabin"
+    },
+    {
+      "empId": "50579",
+      "prefix": "Dr.",
+      "name": "Krishnendu Biswas",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor-Annex, Cabin No. 2"
+    },
+    {
+      "empId": "50782",
+      "prefix": "Dr.",
+      "name": "Rajasekaran V",
+      "school": "SSL",
+      "cabinDetail": "AB1, I Floor, Cabin No.15"
+    },
+    {
+      "empId": "51947",
+      "prefix": "Dr.",
+      "name": "Rajakumar Arul",
+      "school": "SCOPE",
+      "cabinDetail": "AB2 - 1F, MAIN Cabin 2"
+    },
+    {
+      "empId": "51957",
+      "prefix": "Prof.",
+      "name": "Shanthi Krishna",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 6th Floor"
+    },
+    {
+      "empId": "51958",
+      "prefix": "Dr.",
+      "name": "Meenakshi Sankaran",
+      "school": "VITBS",
+      "cabinDetail": "sigma, 2nd floor , Room No 15"
+    },
+    {
+      "empId": "50504",
+      "prefix": "Prof.",
+      "name": "Karthikeyan K",
+      "school": "SCE",
+      "cabinDetail": "AB II GF 02 - Soil Lab"
+    },
+    {
+      "empId": "51731",
+      "prefix": "Dr.",
+      "name": "Shwetha M Krishnappa",
+      "school": "VITBS",
+      "cabinDetail": "Health centre, 2nd floor, Faculty Cabin7"
+    },
+    {
+      "empId": "50282",
+      "prefix": "Prof.",
+      "name": "Anantha Krishnan V",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6TH Floor, Annex , No 9"
+    },
+    {
+      "empId": "51702",
+      "prefix": "Dr.",
+      "name": "Lucky Agarwal",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "52213",
+      "prefix": "Dr.",
+      "name": "Ravi Kumar Biroju",
+      "school": "SAS",
+      "cabinDetail": "AB-1, 5th Floor, 503, Cabin No.13"
+    },
+    {
+      "empId": "51151",
+      "prefix": "Dr.",
+      "name": "Milind Shrinivas Dangate",
+      "school": "SAS",
+      "cabinDetail": "AB1, III Floor, (Students Welfare Office)"
+    },
+    {
+      "empId": "51965",
+      "prefix": "Prof.",
+      "name": "Deepika SG",
+      "school": "VFIT",
+      "cabinDetail": "admin block, 8th floor - VFIT school"
+    },
+    {
+      "empId": "51355",
+      "prefix": "Dr.",
+      "name": "J Bhavani",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 6th floor"
+    },
+    {
+      "empId": "51352",
+      "prefix": "Dr.",
+      "name": "M. Dhivya",
+      "school": "SAS",
+      "cabinDetail": "AB1, 2nd Floor, Cabin No.11"
+    },
+    {
+      "empId": "51349",
+      "prefix": "Prof.",
+      "name": "Shinsa P Mathew",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 6th Floor"
+    },
+    {
+      "empId": "50415",
+      "prefix": "Dr.",
+      "name": "Sakthivel G",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - Anx I - R # 04"
+    },
+    {
+      "empId": "51353",
+      "prefix": "Dr.",
+      "name": "Thangaraja Arumugam",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 6th floor"
+    },
+    {
+      "empId": "50338",
+      "prefix": "Dr.",
+      "name": "Ganesan R",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN - DEAN Cabin"
+    },
+    {
+      "empId": "50577",
+      "prefix": "Dr.",
+      "name": "Renta Chintala Bhargavi",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 7"
+    },
+    {
+      "empId": "50414",
+      "prefix": "Dr.",
+      "name": "Jaya Vignesh T",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annexure/36"
+    },
+    {
+      "empId": "50597",
+      "prefix": "Dr.",
+      "name": "Vinayagamurthy G",
+      "school": "SMEC",
+      "cabinDetail": "AB II - 1st Flr - Aerodynamics Lab - 104"
+    },
+    {
+      "empId": "50177",
+      "prefix": "Dr.",
+      "name": "Thomas Abraham J V",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F Annexure Cabin 4"
+    },
+    {
+      "empId": "51663",
+      "prefix": "Dr.",
+      "name": "Subbulakshmi P",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK- 2F Cabin 4"
+    },
+    {
+      "empId": "51667",
+      "prefix": "Dr.",
+      "name": "Leninisha S",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 2F Cabin 5"
+    },
+    {
+      "empId": "50590",
+      "prefix": "Dr.",
+      "name": "Asnath Victy Phamila Y",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW AnnexURE Cabin 17"
+    },
+    {
+      "empId": "50906",
+      "prefix": "Dr.",
+      "name": "Sofana Reka S",
+      "school": "SENSE",
+      "cabinDetail": "AB2/2nd floor/Main/02"
+    },
+    {
+      "empId": "50598",
+      "prefix": "Dr.",
+      "name": "David Maxim Gururaj A",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor- Annex, Cabin No. 7"
+    },
+    {
+      "empId": "50369",
+      "prefix": "Dr.",
+      "name": "Lakshmi B",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annexure/35"
+    },
+    {
+      "empId": "51698",
+      "prefix": "Dr.",
+      "name": "Gayathri Sivakumar",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50584",
+      "prefix": "Dr.",
+      "name": "Suchetha M",
+      "school": "SENSE",
+      "cabinDetail": "AB1/2nd floor/Embedded Systems Lab/214"
+    },
+    {
+      "empId": "51741",
+      "prefix": "Dr.",
+      "name": "Satyanarayana Kumar Mallavarapu",
+      "school": "SAS",
+      "cabinDetail": "AB2-7th Floor– Cabin No.6"
+    },
+    {
+      "empId": "50729",
+      "prefix": "Dr.",
+      "name": "Bindu B",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annxure/11"
+    },
+    {
+      "empId": "50642",
+      "prefix": "Dr.",
+      "name": "Rabbiraj C",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No.13"
+    },
+    {
+      "empId": "50135",
+      "prefix": "Dr.",
+      "name": "Prabhakar V",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor - Annex, Cabin No. 13"
+    },
+    {
+      "empId": "51736",
+      "prefix": "Dr.",
+      "name": "Malay Bhattacharjee",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 3th floor, Room No 306"
+    },
+    {
+      "empId": "52216",
+      "prefix": "Dr.",
+      "name": "Vijayalakshmi Balachander",
+      "school": "SSL",
+      "cabinDetail": "AB-1, 1st Floor, Cabin-7"
+    },
+    {
+      "empId": "50252",
+      "prefix": "Dr.",
+      "name": "Usha Kiran Kommuri",
+      "school": "SENSE",
+      "cabinDetail": "Canteen Block/2nd floor/"
+    },
+    {
+      "empId": "50416",
+      "prefix": "Dr.",
+      "name": "Saranya Nair M",
+      "school": "SENSE",
+      "cabinDetail": "AB2/5th floor/Advanced Network Lab/505A"
+    },
+    {
+      "empId": "50574",
+      "prefix": "Dr.",
+      "name": "Alamelu C",
+      "school": "SSL",
+      "cabinDetail": "AB1, Ist Floor, Cabin No. 4"
+    },
+    {
+      "empId": "51669",
+      "prefix": "Dr.",
+      "name": "Swaminathan A",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 3F Cabin 1"
+    },
+    {
+      "empId": "50067",
+      "prefix": "Dr.",
+      "name": "Augusta Sophy Beulet P",
+      "school": "SENSE",
+      "cabinDetail": "AB1/6th floor/Annxure/03"
+    },
+    {
+      "empId": "50795",
+      "prefix": "Dr.",
+      "name": "Vijayalakshmi Venkataraman",
+      "school": "SSL",
+      "cabinDetail": "AB1, 4th floor, Cabin No. 405"
+    },
+    {
+      "empId": "51700",
+      "prefix": "Dr.",
+      "name": "Sathya Sree J",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50569",
+      "prefix": "Dr.",
+      "name": "Subbulakshmi T",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 23"
+    },
+    {
+      "empId": "50585",
+      "prefix": "Dr.",
+      "name": "Vetrivelan P",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/16"
+    },
+    {
+      "empId": "51752",
+      "prefix": "Dr.",
+      "name": "Sasithradevi. A",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "51972",
+      "prefix": "Prof.",
+      "name": "Aswathy Sukumaran",
+      "school": "VITSOL",
+      "cabinDetail": "Health Centre 3rd Floor"
+    },
+    {
+      "empId": "51699",
+      "prefix": "Dr.",
+      "name": "Papanasam E.",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50384",
+      "prefix": "Dr.",
+      "name": "Neela Narayanan V",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 25"
+    },
+    {
+      "empId": "50335",
+      "prefix": "Dr.",
+      "name": "Davidson Jebaseelan",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - Anx II - R #32"
+    },
+    {
+      "empId": "50249",
+      "prefix": "Dr.",
+      "name": "Prakash B",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 6F 605A Lab (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "50916",
+      "prefix": "Dr.",
+      "name": "Renuka Devi S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 8F MAIN Cabin 1"
+    },
+    {
+      "empId": "50322",
+      "prefix": "Prof.",
+      "name": "Jayasudha M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN Cabin 10"
+    },
+    {
+      "empId": "50907",
+      "prefix": "Dr.",
+      "name": "Prema E",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No: 2"
+    },
+    {
+      "empId": "52225",
+      "prefix": "Prof.",
+      "name": "Ramya S R",
+      "school": "VITSOL",
+      "cabinDetail": "Academic Block 1 - Room No:501"
+    },
+    {
+      "empId": "50408",
+      "prefix": "Dr.",
+      "name": "Anusooya G",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 9"
+    },
+    {
+      "empId": "51332",
+      "prefix": "Prof.",
+      "name": "Rajasathya K R",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No.12"
+    },
+    {
+      "empId": "51449",
+      "prefix": "Dr.",
+      "name": "Binu Sahayam D",
+      "school": "SSL",
+      "cabinDetail": "Alpha Block, 1st Floor, F-6"
+    },
+    {
+      "empId": "50307",
+      "prefix": "Dr.",
+      "name": "Priyaadharshini M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F MAIN Cabin 13"
+    },
+    {
+      "empId": "51948",
+      "prefix": "Dr.",
+      "name": "Sudha A",
+      "school": "SCOPE",
+      "cabinDetail": "HEALTH CENTRE 2F, Cabin"
+    },
+    {
+      "empId": "51939",
+      "prefix": "Dr.",
+      "name": "Ganesan Pandian",
+      "school": "SAS",
+      "cabinDetail": "Sigma Block, 2nd Floor, Cabin No:26"
+    },
+    {
+      "empId": "50289",
+      "prefix": "Dr.",
+      "name": "Premalatha M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 18"
+    },
+    {
+      "empId": "50169",
+      "prefix": "Dr.",
+      "name": "Bhuvaneswari G",
+      "school": "SSL",
+      "cabinDetail": "AB1, I floor, Cabin No. 10"
+    },
+    {
+      "empId": "50419",
+      "prefix": "Dr.",
+      "name": "Peer Fathima A",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor, Room No 604, 15th Cabin"
+    },
+    {
+      "empId": "50507",
+      "prefix": "Dr.",
+      "name": "Gopinath Mudhana",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor-Annex, Cabin No.13"
+    },
+    {
+      "empId": "50260",
+      "prefix": "Dr.",
+      "name": "Niraj Kumar",
+      "school": "SENSE",
+      "cabinDetail": "AB1/6th floor/Annexure/04"
+    },
+    {
+      "empId": "50915",
+      "prefix": "Dr.",
+      "name": "Jayapragash R",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th floor, 603A-Embedded Lab"
+    },
+    {
+      "empId": "50772",
+      "prefix": "Dr.",
+      "name": "Nathiya N",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor, Cabin No.8"
+    },
+    {
+      "empId": "51334",
+      "prefix": "Dr.",
+      "name": "Selvakumar",
+      "school": "VFIT",
+      "cabinDetail": "admin block, 8th floor - VFIT school"
+    },
+    {
+      "empId": "51676",
+      "prefix": "Dr.",
+      "name": "Sindhia Lingaswamy",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 3F Cabin 3"
+    },
+    {
+      "empId": "50195",
+      "prefix": "Dr.",
+      "name": "Caroline Ponraj",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor-Annex, Cabin No. 4"
+    },
+    {
+      "empId": "51333",
+      "prefix": "Dr.",
+      "name": "S Saleem",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 6th floor"
+    },
+    {
+      "empId": "50918",
+      "prefix": "Dr.",
+      "name": "Shyamala L",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - IF NEW Annexure Cabin 3"
+    },
+    {
+      "empId": "50137",
+      "prefix": "Dr.",
+      "name": "Gnana Swathika O V",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor, Room No 604, 10th Cabin"
+    },
+    {
+      "empId": "50080",
+      "prefix": "Dr.",
+      "name": "Menaka R",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/Annexure/"
+    },
+    {
+      "empId": "50278",
+      "prefix": "Dr.",
+      "name": "Sakthivel S M",
+      "school": "SENSE",
+      "cabinDetail": "AB1/6th floor/Communication Lab/505"
+    },
+    {
+      "empId": "50358",
+      "prefix": "Dr.",
+      "name": "Manoj Kumar R",
+      "school": "SENSE",
+      "cabinDetail": "AB1/8th floor/Main/"
+    },
+    {
+      "empId": "50274",
+      "prefix": "Dr.",
+      "name": "Anita Angeline A",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/05"
+    },
+    {
+      "empId": "50423",
+      "prefix": "Dr.",
+      "name": "Prakash V",
+      "school": "SENSE",
+      "cabinDetail": "AB2/5th floor/Microprocessor and Microcontroller Lab/501"
+    },
+    {
+      "empId": "50622",
+      "prefix": "Dr.",
+      "name": "Jafferson J M",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr Faculty Cabin - R # 04"
+    },
+    {
+      "empId": "50079",
+      "prefix": "Dr.",
+      "name": "Sudarsanam S K",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 3th floor, Room No 308"
+    },
+    {
+      "empId": "51739",
+      "prefix": "Prof.",
+      "name": "Navami",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No.9"
+    },
+    {
+      "empId": "51143",
+      "prefix": "Dr.",
+      "name": "Sekar Sathya Narayanan",
+      "school": "SENSE",
+      "cabinDetail": "AB2/4th floor/Main/04"
+    },
+    {
+      "empId": "50503",
+      "prefix": "Dr.",
+      "name": "Ajit I",
+      "school": "SSL",
+      "cabinDetail": "AB2, Ground floor, Cabin No.1"
+    },
+    {
+      "empId": "50290",
+      "prefix": "Dr.",
+      "name": "Nagajayanthi B",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/08"
+    },
+    {
+      "empId": "51726",
+      "prefix": "Dr.",
+      "name": "Mrutyunjay Panigrahi",
+      "school": "SMEC",
+      "cabinDetail": "Sigma Block II Floor Right Wing - Cabin No. 23"
+    },
+    {
+      "empId": "50578",
+      "prefix": "Dr.",
+      "name": "Christo Michael T",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 5th Flr - Anx I - R # 06"
+    },
+    {
+      "empId": "50196",
+      "prefix": "Dr.",
+      "name": "Jaganathan B",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor, Cabin No. 5"
+    },
+    {
+      "empId": "50292",
+      "prefix": "Dr.",
+      "name": "Radha S",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor, Cabin No.2"
+    },
+    {
+      "empId": "50349",
+      "prefix": "Prof.",
+      "name": "Senthilpandian M",
+      "school": "SCE",
+      "cabinDetail": "ABII-1st Flr-Advanced Concrete Testing Lab- 03"
+    },
+    {
+      "empId": "50863",
+      "prefix": "Dr.",
+      "name": "Karthik R",
+      "school": "SENSE",
+      "cabinDetail": "Health Centre Block /1st Floor/F11"
+    },
+    {
+      "empId": "51673",
+      "prefix": "Dr.",
+      "name": "Sandeep Kumar Satapathy",
+      "school": "SCOPE",
+      "cabinDetail": "AB2 - 4F MAIN Cabin 6"
+    },
+    {
+      "empId": "50390",
+      "prefix": "Dr.",
+      "name": "Alok Chauhan",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 6F MAIN Cabin 7"
+    },
+    {
+      "empId": "50068",
+      "prefix": "Dr.",
+      "name": "Saradha Rajkumar",
+      "school": "SSL",
+      "cabinDetail": "AB1, I floor, Cabin No. 16"
+    },
+    {
+      "empId": "51675",
+      "prefix": "Dr.",
+      "name": "Richa",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F Annexure Cabin 3"
+    },
+    {
+      "empId": "50908",
+      "prefix": "Dr.",
+      "name": "Vydeki D",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/01"
+    },
+    {
+      "empId": "50275",
+      "prefix": "Dr.",
+      "name": "Sri Ramalakshmi P",
+      "school": "SELECT",
+      "cabinDetail": "AB1, Ground floor, Machines Lab, 2nd Cabin"
+    },
+    {
+      "empId": "50159",
+      "prefix": "Dr.",
+      "name": "Harini S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN Cabin 7"
+    },
+    {
+      "empId": "50851",
+      "prefix": "Dr.",
+      "name": "Gargi Raina",
+      "school": "SENSE",
+      "cabinDetail": "AB2/6th floor/NaNotechNology Lab/601A"
+    },
+    {
+      "empId": "50636",
+      "prefix": "Dr.",
+      "name": "Revathi G K",
+      "school": "SAS",
+      "cabinDetail": "AB2, III Floor, Cabin No.4"
+    },
+    {
+      "empId": "50424",
+      "prefix": "Dr.",
+      "name": "Ravi Prakash Dwivedi",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annexure/34"
+    },
+    {
+      "empId": "51653",
+      "prefix": "Dr.",
+      "name": "Edward Jero S",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - GROUND FLOOR CPS LAB"
+    },
+    {
+      "empId": "50346",
+      "prefix": "Dr.",
+      "name": "Berin Greeni A",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor, Cabin-1"
+    },
+    {
+      "empId": "51713",
+      "prefix": "Dr.",
+      "name": "Jeetashree Aparajeeta",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "51454",
+      "prefix": "Dr.",
+      "name": "Kiran Kumar Tadi",
+      "school": "SAS",
+      "cabinDetail": "Alpha Block, 2nd Floor, S-12"
+    },
+    {
+      "empId": "51327",
+      "prefix": "Dr.",
+      "name": "Braveen M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 13"
+    },
+    {
+      "empId": "50146",
+      "prefix": "Dr.",
+      "name": "Rajendra Kumar K",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor, Cabin No. 2"
+    },
+    {
+      "empId": "51461",
+      "prefix": "Dr.",
+      "name": "Balasundaram A",
+      "school": "SCOPE",
+      "cabinDetail": "HEALTH CENTRE 2F, Cabin"
+    },
+    {
+      "empId": "50401",
+      "prefix": "Dr.",
+      "name": "Punitha K",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 24"
+    },
+    {
+      "empId": "50303",
+      "prefix": "Dr.",
+      "name": "Malathi G",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F ANNEXURE Cabin 7"
+    },
+    {
+      "empId": "51345",
+      "prefix": "Prof.",
+      "name": "Georgy Sunny",
+      "school": "VFIT",
+      "cabinDetail": "admin block, 8th floor - VFIT school"
+    },
+    {
+      "empId": "50299",
+      "prefix": "Dr.",
+      "name": "Bharathi Raja S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F MAIN Cabin 3"
+    },
+    {
+      "empId": "51458",
+      "prefix": "Dr.",
+      "name": "Jothi R",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 7F MAIN, Cabin 4"
+    },
+    {
+      "empId": "50272",
+      "prefix": "Dr.",
+      "name": "Sasikumar M",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 5th Flr - Anx I - R # 09"
+    },
+    {
+      "empId": "50310",
+      "prefix": "Dr.",
+      "name": "Prathiba A",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/09"
+    },
+    {
+      "empId": "50621",
+      "prefix": "Dr.",
+      "name": "Annis Fathima A",
+      "school": "SENSE",
+      "cabinDetail": "AB1/7th floor/DSPLab/707"
+    },
+    {
+      "empId": "51437",
+      "prefix": "Prof.",
+      "name": "Ankit Kumar Padhy",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No 3"
+    },
+    {
+      "empId": "50204",
+      "prefix": "Dr.",
+      "name": "Jegadeeshwaran R",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - 406 A - CIM and Robotics Lab"
+    },
+    {
+      "empId": "51338",
+      "prefix": "Prof.",
+      "name": "K Kamban Socretes",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 4th Floor"
+    },
+    {
+      "empId": "51446",
+      "prefix": "Prof.",
+      "name": "Anbarasi G",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 4th Floor"
+    },
+    {
+      "empId": "51145",
+      "prefix": "Dr.",
+      "name": "Jishnu J R",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 4th Floor"
+    },
+    {
+      "empId": "51695",
+      "prefix": "Dr.",
+      "name": "P Vijay Kumar",
+      "school": "SAS",
+      "cabinDetail": "AB2-6th Floor– Cabin No.4"
+    },
+    {
+      "empId": "51680",
+      "prefix": "Dr.",
+      "name": "Sakthivel V",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 3F Cabin 5"
+    },
+    {
+      "empId": "51951",
+      "prefix": "Dr.",
+      "name": "Vineeth Radhakrishnan",
+      "school": "SSL",
+      "cabinDetail": "Sigma Block, 2nd floor, Cabin No:30"
+    },
+    {
+      "empId": "50071",
+      "prefix": "Dr.",
+      "name": "Reeves Wesley J",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 3th floor, Room No 306"
+    },
+    {
+      "empId": "51697",
+      "prefix": "Dr.",
+      "name": "Arivarasi A",
+      "school": "SENSE",
+      "cabinDetail": "AB1/3rd floor/Analog Lab/307A"
+    },
+    {
+      "empId": "50259",
+      "prefix": "Dr.",
+      "name": "Sri Revathi B",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 3rd floor, 306 - Control & Instrumention Lab Room No 306"
+    },
+    {
+      "empId": "50466",
+      "prefix": "Dr.",
+      "name": "Manimaran R",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr Faculty Cabin - R # 08"
+    },
+    {
+      "empId": "51709",
+      "prefix": "Dr.",
+      "name": "E.Manikandan",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50458",
+      "prefix": "Dr.",
+      "name": "Elavenil S",
+      "school": "SCE",
+      "cabinDetail": "AB I - 4th Flr - Anx I Cabin # 6"
+    },
+    {
+      "empId": "50599",
+      "prefix": "Dr.",
+      "name": "Aruna R",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 3th floor, Room No 306"
+    },
+    {
+      "empId": "50730",
+      "prefix": "Dr.",
+      "name": "Giridharan A",
+      "school": "SMEC",
+      "cabinDetail": "AB II-GF 015-Advanced ManuFacultyturing Tech Lab"
+    },
+    {
+      "empId": "52227",
+      "prefix": "Dr.",
+      "name": "A. Sherly Alphonse",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 503 - Cubical 22"
+    },
+    {
+      "empId": "50565",
+      "prefix": "Dr.",
+      "name": "Subbulekshmi D",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th, Annex, Room No 5"
+    },
+    {
+      "empId": "51716",
+      "prefix": "Dr.",
+      "name": "S.Shoba",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50500",
+      "prefix": "Dr.",
+      "name": "Kaustab Ghosh",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annexure/33"
+    },
+    {
+      "empId": "51652",
+      "prefix": "Dr.",
+      "name": "Venkatraman S",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 1F Cabin 2"
+    },
+    {
+      "empId": "50571",
+      "prefix": "Dr.",
+      "name": "Deepa T",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th floor , Cabin No 2"
+    },
+    {
+      "empId": "50165",
+      "prefix": "Dr.",
+      "name": "Ravi Sankar A",
+      "school": "SENSE",
+      "cabinDetail": "AB1/7th floor/Annexure/08"
+    },
+    {
+      "empId": "52214",
+      "prefix": "Dr.",
+      "name": "Selva Chandrasekaran",
+      "school": "SAS",
+      "cabinDetail": "AB-1, 5th Floor, 503, Cabin No.14"
+    },
+    {
+      "empId": "51678",
+      "prefix": "Dr.",
+      "name": "Arun Kumar Sivaraman",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 8F MAIN Cabin 4"
+    },
+    {
+      "empId": "50427",
+      "prefix": "Dr.",
+      "name": "Srivatsan K",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/02"
+    },
+    {
+      "empId": "51019",
+      "prefix": "Dr.",
+      "name": "Poulomi De",
+      "school": "SAS",
+      "cabinDetail": "Alpha Block, 1st Floor, F2"
+    },
+    {
+      "empId": "51715",
+      "prefix": "Dr.",
+      "name": "P.Nirmala",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50394",
+      "prefix": "Dr.",
+      "name": "Nachiyappan S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 6F MAIN Cabin 5"
+    },
+    {
+      "empId": "50727",
+      "prefix": "Dr.",
+      "name": "Narayanan R",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 5th Flr - Anx I - R # 08"
+    },
+    {
+      "empId": "50396",
+      "prefix": "Dr.",
+      "name": "Pradeep K V",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 6F MAIN Cabin 4"
+    },
+    {
+      "empId": "51686",
+      "prefix": "Dr.",
+      "name": "Somnath Bera",
+      "school": "SAS",
+      "cabinDetail": "AB2-6th Floor– Cabin No.1"
+    },
+    {
+      "empId": "51018",
+      "prefix": "Dr.",
+      "name": "Vijayalakshmi V",
+      "school": "SSL",
+      "cabinDetail": "AB2, Ground floor, Cabin No.6"
+    },
+    {
+      "empId": "51457",
+      "prefix": "Dr.",
+      "name": "Manas Ranjan Prusty",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F 307 Lab (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "50011",
+      "prefix": "Dr.",
+      "name": "Sabumon P C",
+      "school": "SCE",
+      "cabinDetail": "Deans Cabin - Academic research AB I 1st Floor"
+    },
+    {
+      "empId": "50610",
+      "prefix": "Dr.",
+      "name": "Arun Kumar A",
+      "school": "SCE",
+      "cabinDetail": "AB I - 4th Flr Faculty Cabin - R #15"
+    },
+    {
+      "empId": "50085",
+      "prefix": "Dr.",
+      "name": "Venkatesh R",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 4th floor, Room No 408"
+    },
+    {
+      "empId": "51742",
+      "prefix": "Dr.",
+      "name": "Cinu C Kiliroor",
+      "school": "SCOPE",
+      "cabinDetail": "Sigma Block - L11"
+    },
+    {
+      "empId": "50962",
+      "prefix": "Dr.",
+      "name": "Rashmi Rekha Borah",
+      "school": "SSL",
+      "cabinDetail": "AB1, II Floor, Cabin No. 6"
+    },
+    {
+      "empId": "50266",
+      "prefix": "Dr.",
+      "name": "Shridevi S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F ANNEXURE Cabin 14"
+    },
+    {
+      "empId": "50077",
+      "prefix": "Dr.",
+      "name": "Reena Monica P",
+      "school": "SENSE",
+      "cabinDetail": "AB1/3rd floor/Annexure/Student Welfare Office"
+    },
+    {
+      "empId": "50611",
+      "prefix": "Dr.",
+      "name": "Abhishek Kumar Singh",
+      "school": "SAS",
+      "cabinDetail": "Alpha Block 1st Floor, F-5"
+    },
+    {
+      "empId": "50176",
+      "prefix": "Dr.",
+      "name": "Graceline Jasmine S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN Cabin 8"
+    },
+    {
+      "empId": "51679",
+      "prefix": "Dr.",
+      "name": "Ganala Santoshi",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 3F Cabin 4"
+    },
+    {
+      "empId": "50452",
+      "prefix": "Dr.",
+      "name": "Saravanan K",
+      "school": "SCE",
+      "cabinDetail": "AB I - 4th Flr - Anx I - R # 09"
+    },
+    {
+      "empId": "50348",
+      "prefix": "Dr.",
+      "name": "Dhanasekar S",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor-Annex, Cabin No. 3"
+    },
+    {
+      "empId": "51725",
+      "prefix": "Dr.",
+      "name": "Awani Bhushan",
+      "school": "SMEC",
+      "cabinDetail": "Sigma Block II Floor Right Wing - Cabin No. 4"
+    },
+    {
+      "empId": "52198",
+      "prefix": "Prof.",
+      "name": "Karthik Shiva",
+      "school": "VITSOL",
+      "cabinDetail": "Academic Block 1 - Room No:501"
+    },
+    {
+      "empId": "51733",
+      "prefix": "Dr.",
+      "name": "L R K Krishnan",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 3th floor, Room No 306"
+    },
+    {
+      "empId": "51684",
+      "prefix": "Dr.",
+      "name": "P Durgaprasad",
+      "school": "SAS",
+      "cabinDetail": "AB2-6th Floor– Cabin No.2"
+    },
+    {
+      "empId": "50315",
+      "prefix": "Dr.",
+      "name": "Jayaram B",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F MAIN Cabin 2"
+    },
+    {
+      "empId": "50304",
+      "prefix": "Dr.",
+      "name": "Kumar R",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 6F Annexure, 613 LAB"
+    },
+    {
+      "empId": "51766",
+      "prefix": "Dr.",
+      "name": "Eithiraj R D",
+      "school": "SAS",
+      "cabinDetail": "AB2-7th Floor– Cabin No.1"
+    },
+    {
+      "empId": "51685",
+      "prefix": "Dr.",
+      "name": "Pravinkashyap Kambhatla",
+      "school": "SAS",
+      "cabinDetail": "AB2-6th Floor– Cabin No.3"
+    },
+    {
+      "empId": "50767",
+      "prefix": "Dr.",
+      "name": "Sweetlin Hemalatha C",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F Annexure Cabin 8"
+    },
+    {
+      "empId": "50426",
+      "prefix": "Dr.",
+      "name": "Abraham Sudharson Ponraj",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annexure/05"
+    },
+    {
+      "empId": "50359",
+      "prefix": "Dr.",
+      "name": "Rekha D",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 7F Annexure Cabin 1"
+    },
+    {
+      "empId": "50495",
+      "prefix": "Dr.",
+      "name": "Vasugi V",
+      "school": "SCE",
+      "cabinDetail": "AB I - 5th Flr - Anx I - R # 07"
+    },
+    {
+      "empId": "50905",
+      "prefix": "Dr.",
+      "name": "T Palani Rajan",
+      "school": "VFIT",
+      "cabinDetail": "Admin block -first floor"
+    },
+    {
+      "empId": "50317",
+      "prefix": "Dr.",
+      "name": "Feroskhan M",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 5th Flr - Anx I - R # 04"
+    },
+    {
+      "empId": "51661",
+      "prefix": "Dr.",
+      "name": "Mirza Galib Anwarul Husain Baig",
+      "school": "SCOPE",
+      "cabinDetail": "ABII - 7F"
+    },
+    {
+      "empId": "50442",
+      "prefix": "Dr.",
+      "name": "Asha S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 19"
+    },
+    {
+      "empId": "50309",
+      "prefix": "Dr.",
+      "name": "Mohan K",
+      "school": "SCE",
+      "cabinDetail": "ABI - 606RH Geo science Lab"
+    },
+    {
+      "empId": "51730",
+      "prefix": "Dr.",
+      "name": "Praveen Kakada",
+      "school": "VITBS",
+      "cabinDetail": "Delta block , 4th floor Room No 402, Cabin No 7"
+    },
+    {
+      "empId": "51704",
+      "prefix": "Dr.",
+      "name": "Pradeep Narayanan.S",
+      "school": "SENSE",
+      "cabinDetail": "AB1/8th floor/Semi condcutor Lab/807"
+    },
+    {
+      "empId": "51735",
+      "prefix": "Dr.",
+      "name": "Sujatha Manohar",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 4th floor"
+    },
+    {
+      "empId": "50191",
+      "prefix": "Dr.",
+      "name": "Mahalakshmi S",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor-Annex, Cabin No. 6"
+    },
+    {
+      "empId": "50791",
+      "prefix": "Dr.",
+      "name": "Parthiban V",
+      "school": "SAS",
+      "cabinDetail": "Alpha Block II Floor, S9"
+    },
+    {
+      "empId": "50314",
+      "prefix": "Prof.",
+      "name": "Kavya Alluru",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F Annexure Cabin 2"
+    },
+    {
+      "empId": "50596",
+      "prefix": "Dr.",
+      "name": "Binu Ben Jose D R",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th, 603-Power Electronics lab"
+    },
+    {
+      "empId": "51744",
+      "prefix": "Dr.",
+      "name": "Saurav Gupta",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "52201",
+      "prefix": "Dr.",
+      "name": "Rajivganthi C",
+      "school": "SAS",
+      "cabinDetail": "AB-1, 5th Floor, 503, Cabin No.3"
+    },
+    {
+      "empId": "50413",
+      "prefix": "Dr.",
+      "name": "Hema N",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 1F NEW Annexure Cabin 9"
+    },
+    {
+      "empId": "51746",
+      "prefix": "Dr.",
+      "name": "Akaitab Mukherjee",
+      "school": "SSL",
+      "cabinDetail": "Sigma Block, 2nd floor, Cabin-13"
+    },
+    {
+      "empId": "51067",
+      "prefix": "Dr.",
+      "name": "Thiripurasundari D",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/15"
+    },
+    {
+      "empId": "51945",
+      "prefix": "Dr.",
+      "name": "Kutubuddin Ansari",
+      "school": "SAS",
+      "cabinDetail": "Sigma Block, 2nd Floor, Cabin No:28"
+    },
+    {
+      "empId": "50168",
+      "prefix": "Dr.",
+      "name": "Pattabiraman V",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN Cabin 14"
+    },
+    {
+      "empId": "50131",
+      "prefix": "Dr.",
+      "name": "John Sahaya Rani Alex",
+      "school": "SENSE",
+      "cabinDetail": "AB1/4th floor/Annxure/37"
+    },
+    {
+      "empId": "50078",
+      "prefix": "Dr.",
+      "name": "Subhashini N",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Digital Lab/506A"
+    },
+    {
+      "empId": "52209",
+      "prefix": "Dr.",
+      "name": "D. Kavitha",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 503 - Cubical 11"
+    },
+    {
+      "empId": "50350",
+      "prefix": "Dr.",
+      "name": "Shyam Kumar M B",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 5th Flr - Anx I - R # 10"
+    },
+    {
+      "empId": "51754",
+      "prefix": "Dr.",
+      "name": "Radha R",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F 210 Lab (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "51944",
+      "prefix": "Dr.",
+      "name": "Kalyan Banerjee",
+      "school": "SAS",
+      "cabinDetail": "Sigma Block, 2nd Floor, Cabin No:33"
+    },
+    {
+      "empId": "51060",
+      "prefix": "Dr.",
+      "name": "Vaidhyanatha Balaji K V",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 4th floor, Room No 406"
+    },
+    {
+      "empId": "51450",
+      "prefix": "Dr.",
+      "name": "Vijayarajan R",
+      "school": "SENSE",
+      "cabinDetail": "Health centre/1st floor/F9"
+    },
+    {
+      "empId": "50421",
+      "prefix": "Dr.",
+      "name": "Radha R",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 403 A - Materials Characterisation Lab"
+    },
+    {
+      "empId": "51734",
+      "prefix": "Dr.",
+      "name": "S Divya",
+      "school": "VITBS",
+      "cabinDetail": "Health centre, 2nd floor, Faculty Cabin5"
+    },
+    {
+      "empId": "50768",
+      "prefix": "Dr.",
+      "name": "Saravanakumar D",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 707 B - Mechatronics Lab"
+    },
+    {
+      "empId": "51020",
+      "prefix": "Dr.",
+      "name": "Vidhya V",
+      "school": "SAS",
+      "cabinDetail": "AB1, 1st Floor, Cabin No.4"
+    },
+    {
+      "empId": "51681",
+      "prefix": "Dr.",
+      "name": "Seshu Babu Pulagara",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 3F Cabin 6"
+    },
+    {
+      "empId": "51016",
+      "prefix": "Dr.",
+      "name": "Devi Yamini S",
+      "school": "SAS",
+      "cabinDetail": "AB2, 3rd Floor, Cabin-5"
+    },
+    {
+      "empId": "50345",
+      "prefix": "Dr.",
+      "name": "Angeline Ezhilarasi G",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor, Room No 604, 2nd Cabin"
+    },
+    {
+      "empId": "51011",
+      "prefix": "Dr.",
+      "name": "Harish R",
+      "school": "SMEC",
+      "cabinDetail": "AB II- III Floor, Faculty Cabin.No.1"
+    },
+    {
+      "empId": "51720",
+      "prefix": "Dr.",
+      "name": "Idayachandran .G",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50563",
+      "prefix": "Dr.",
+      "name": "Jagannath M",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/03"
+    },
+    {
+      "empId": "50197",
+      "prefix": "Dr.",
+      "name": "Mohana N",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor, Cabin No 3"
+    },
+    {
+      "empId": "52054",
+      "prefix": "Dr.",
+      "name": "Soundara Pandian M S",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - VITSOL Dean's Cabin"
+    },
+    {
+      "empId": "51940",
+      "prefix": "Dr.",
+      "name": "G Ramachandran",
+      "school": "SAS",
+      "cabinDetail": "Sigma Block, 2nd Floor, Cabin No:25"
+    },
+    {
+      "empId": "50861",
+      "prefix": "Dr.",
+      "name": "Susan Elias",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/14"
+    },
+    {
+      "empId": "50919",
+      "prefix": "Dr.",
+      "name": "Balamurugan B J",
+      "school": "SAS",
+      "cabinDetail": "AB2, 2nd Floor, Cabin-5"
+    },
+    {
+      "empId": "51750",
+      "prefix": "Dr.",
+      "name": "Chitra Dey",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 4th floor"
+    },
+    {
+      "empId": "51660",
+      "prefix": "Dr.",
+      "name": "Vani V",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F 209 Lab (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "50265",
+      "prefix": "Prof.",
+      "name": "Lavanya V",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th, Annex, Room No 2"
+    },
+    {
+      "empId": "50276",
+      "prefix": "Dr.",
+      "name": "B V A N S S Prabhakar Rao",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN Cabin 1"
+    },
+    {
+      "empId": "51748",
+      "prefix": "Dr.",
+      "name": "Pradeep K",
+      "school": "SCOPE",
+      "cabinDetail": "Sigma Block - L14"
+    },
+    {
+      "empId": "50926",
+      "prefix": "Dr.",
+      "name": "Jayanthi R",
+      "school": "SCOPE",
+      "cabinDetail": "AB2 - 2F MAIN Cabin 3"
+    },
+    {
+      "empId": "50183",
+      "prefix": "Prof.",
+      "name": "Ilakiyaselvan N",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F Annexure Cabin 6"
+    },
+    {
+      "empId": "52199",
+      "prefix": "Dr.",
+      "name": "B. Krishna Kumar",
+      "school": "SAS",
+      "cabinDetail": "AB1, I floor, Cabin No. 6"
+    },
+    {
+      "empId": "51448",
+      "prefix": "Dr.",
+      "name": "Vasanth Kumar",
+      "school": "VFIT",
+      "cabinDetail": "admin block, 8th floor - VFIT school"
+    },
+    {
+      "empId": "51683",
+      "prefix": "Dr.",
+      "name": "Sudip Debnath",
+      "school": "SAS",
+      "cabinDetail": "AB2-6th Floor – Cabin No.6"
+    },
+    {
+      "empId": "50924",
+      "prefix": "Dr.",
+      "name": "Balamurali M M",
+      "school": "SAS",
+      "cabinDetail": "AB1, 1st Floor, Cabin.No.1"
+    },
+    {
+      "empId": "50719",
+      "prefix": "Dr.",
+      "name": "Anuradha A",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 3th floor, Room No 306"
+    },
+    {
+      "empId": "51174",
+      "prefix": "Dr.",
+      "name": "Sangeetha P",
+      "school": "SAS",
+      "cabinDetail": "AB2, 1st Floor, Cabin No.3"
+    },
+    {
+      "empId": "51755",
+      "prefix": "Dr.",
+      "name": "Devi Meenakshi K",
+      "school": "SSL",
+      "cabinDetail": "AB-1, 1st Floor, Cabin-9"
+    },
+    {
+      "empId": "50777",
+      "prefix": "Dr.",
+      "name": "Velmathi G",
+      "school": "SENSE",
+      "cabinDetail": "AB1/8th floor/Main/steps corner New Cabin"
+    },
+    {
+      "empId": "50094",
+      "prefix": "Dr.",
+      "name": "Jeganathan L",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F Annexure Cabin 11"
+    },
+    {
+      "empId": "51706",
+      "prefix": "Dr.",
+      "name": "Ashish Kumar",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "51326",
+      "prefix": "Dr.",
+      "name": "Amit Kumar Tyagi",
+      "school": "SCOPE",
+      "cabinDetail": "AB2 - 3F MAIN Cabin 2"
+    },
+    {
+      "empId": "51677",
+      "prefix": "Dr.",
+      "name": "Vedhapriyavadhana R",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F 205B LAB (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "50161",
+      "prefix": "Dr.",
+      "name": "Nayeemulla Khan",
+      "school": "SCOPE",
+      "cabinDetail": "ADMN BLOCK-2F"
+    },
+    {
+      "empId": "51014",
+      "prefix": "Dr.",
+      "name": "Goutham Sarang",
+      "school": "SCE",
+      "cabinDetail": "AB I - 4th Flr Faculty Anx II Cabin - R #1"
+    },
+    {
+      "empId": "51351",
+      "prefix": "Dr.",
+      "name": "Sumathi G N",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 3th floor, Room No 306"
+    },
+    {
+      "empId": "51753",
+      "prefix": "Dr.",
+      "name": "Henridass.A",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50469",
+      "prefix": "Dr.",
+      "name": "Luke Gerard Christie",
+      "school": "SSL",
+      "cabinDetail": "AB2, 7th Floor, Cabin No. 4"
+    },
+    {
+      "empId": "50435",
+      "prefix": "Dr.",
+      "name": "Karmel A",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 8"
+    },
+    {
+      "empId": "50455",
+      "prefix": "Dr.",
+      "name": "Jamuna K",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th, Annex, Room No 6"
+    },
+    {
+      "empId": "52222",
+      "prefix": "Dr.",
+      "name": "Nilesh A Wadibhasme",
+      "school": "SAS",
+      "cabinDetail": "AB-1, 5th Floor, 503, Cabin No.17"
+    },
+    {
+      "empId": "51943",
+      "prefix": "Dr.",
+      "name": "Durga Nagarajan",
+      "school": "SAS",
+      "cabinDetail": "Sigma Block, 2nd Floor, Cabin No:31"
+    },
+    {
+      "empId": "51757",
+      "prefix": "Dr.",
+      "name": "E.Sathish",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50208",
+      "prefix": "Dr.",
+      "name": "Gobinath N",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr Faculty Cabin - R #10"
+    },
+    {
+      "empId": "51654",
+      "prefix": "Dr.",
+      "name": "Ashoka Rajan R",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 1F Cabin 4"
+    },
+    {
+      "empId": "51464",
+      "prefix": "Dr.",
+      "name": "Buthanapalli Ramakrishna",
+      "school": "SAS",
+      "cabinDetail": "Alpha Block, 2nd Floor, S-10"
+    },
+    {
+      "empId": "51962",
+      "prefix": "Dr.",
+      "name": "Shruti Mishra",
+      "school": "SCOPE",
+      "cabinDetail": "AB2 - 2F, MAIN Cabin 2"
+    },
+    {
+      "empId": "50316",
+      "prefix": "Dr.",
+      "name": "Joseph Daniel",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - Anx II - R# 31"
+    },
+    {
+      "empId": "50153",
+      "prefix": "Dr.",
+      "name": "Nithya Venkatesan",
+      "school": "SELECT",
+      "cabinDetail": "Admin 2nd floor International relation office"
+    },
+    {
+      "empId": "52195",
+      "prefix": "Dr.",
+      "name": "A. Sheik ADMNullah",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 503 - Cubical 1"
+    },
+    {
+      "empId": "50392",
+      "prefix": "Dr.",
+      "name": "Syed Ibrahim S P",
+      "school": "SCOPE",
+      "cabinDetail": "ADMIN BLOCK - 2F IR OFFICE"
+    },
+    {
+      "empId": "51344",
+      "prefix": "Dr.",
+      "name": "Radhika Selvamani B",
+      "school": "SCOPE",
+      "cabinDetail": "AB2 - GF, MAIN Cabin 3"
+    },
+    {
+      "empId": "50330",
+      "prefix": "Dr.",
+      "name": "Elango M",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - Anx II - R # 06"
+    },
+    {
+      "empId": "50930",
+      "prefix": "Dr.",
+      "name": "Anusha K",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 8F MAIN Cabin 2"
+    },
+    {
+      "empId": "50587",
+      "prefix": "Dr.",
+      "name": "Geetha S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F 205 LAB (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "51655",
+      "prefix": "Dr.",
+      "name": "Jayalakshmi S L",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 7F Annexure Cabin 9"
+    },
+    {
+      "empId": "50319",
+      "prefix": "Dr.",
+      "name": "Bharadwaja Kumar",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN Cabin 15"
+    },
+    {
+      "empId": "52208",
+      "prefix": "Dr.",
+      "name": "Indra Priyadharshini S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 503 - Cubical 9"
+    },
+    {
+      "empId": "51459",
+      "prefix": "Dr.",
+      "name": "Inayathullah Abdul Kareem",
+      "school": "SELECT",
+      "cabinDetail": "HEALTH CENTRE, 2nd floor, Faculty Cabin , 204 class Room"
+    },
+    {
+      "empId": "50311",
+      "prefix": "Dr.",
+      "name": "Kanchana Devi V",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F Annexure Cabin 7"
+    },
+    {
+      "empId": "50920",
+      "prefix": "Dr.",
+      "name": "Lakshmi Pathi Jakkamputi",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - Anx I - R # 02"
+    },
+    {
+      "empId": "52204",
+      "prefix": "Dr.",
+      "name": "Manimegalai T",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 503 - Cubical 5"
+    },
+    {
+      "empId": "52206",
+      "prefix": "Dr.",
+      "name": "Sowndarrajan P T",
+      "school": "SAS",
+      "cabinDetail": "AB-1, 5th Floor, 503, Cabin No.7"
+    },
+    {
+      "empId": "50237",
+      "prefix": "Dr.",
+      "name": "Saleena B",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN, Cabin 6"
+    },
+    {
+      "empId": "51718",
+      "prefix": "Dr.",
+      "name": "A.Bharathi Sankar",
+      "school": "SENSE",
+      "cabinDetail": "AB1/8th floor/Hardware Trouble Shooting Lab/806"
+    },
+    {
+      "empId": "50780",
+      "prefix": "Dr.",
+      "name": "Sivasubramanian A",
+      "school": "SENSE",
+      "cabinDetail": "AB1/6th floor/Annexure/08 - Dean's Cabin - AB1/5th Floor/Main/12"
+    },
+    {
+      "empId": "51012",
+      "prefix": "Dr.",
+      "name": "Mohan R",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr Faculty Cabin - R #14"
+    },
+    {
+      "empId": "50465",
+      "prefix": "Dr.",
+      "name": "Saju B",
+      "school": "VITBS",
+      "cabinDetail": "ADMN block, 4th floor, Room No 306"
+    },
+    {
+      "empId": "51121",
+      "prefix": "Dr.",
+      "name": "M.S.Sharmila",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No: 5"
+    },
+    {
+      "empId": "50798",
+      "prefix": "Dr.",
+      "name": "Sivakami B",
+      "school": "SSL",
+      "cabinDetail": "AB2, Ground floor, Cabin No.4"
+    },
+    {
+      "empId": "50186",
+      "prefix": "Dr.",
+      "name": "Parvathi R",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F Annexure Cabin 11"
+    },
+    {
+      "empId": "50162",
+      "prefix": "Dr.",
+      "name": "Vanchinathan P",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor - Annex, Cabin No. 14"
+    },
+    {
+      "empId": "50398",
+      "prefix": "Dr.",
+      "name": "Sivabalakrishnan M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 26"
+    },
+    {
+      "empId": "50293",
+      "prefix": "Dr.",
+      "name": "Anith Nelleri",
+      "school": "SENSE",
+      "cabinDetail": "AB1/6th floor/Annxure/07"
+    },
+    {
+      "empId": "50375",
+      "prefix": "Dr.",
+      "name": "Lenin N C",
+      "school": "SELECT",
+      "cabinDetail": "AB2, 1st floor, 101A - Electrical Vehicles - Research Center"
+    },
+    {
+      "empId": "50433",
+      "prefix": "Dr.",
+      "name": "Balamurugan P",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th floor, Room No 604, 6th Cabin"
+    },
+    {
+      "empId": "51714",
+      "prefix": "Dr.",
+      "name": "Kalaivanan K",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "51954",
+      "prefix": "Dr.",
+      "name": "Jyotirmayee Satapathy",
+      "school": "VITBS",
+      "cabinDetail": "sigma, 2nd floor , Room No 17"
+    },
+    {
+      "empId": "50873",
+      "prefix": "Dr.",
+      "name": "Manivannan A",
+      "school": "SAS",
+      "cabinDetail": "Alpha Block, 2nd Floor, S-11"
+    },
+    {
+      "empId": "50769",
+      "prefix": "Dr.",
+      "name": "Devaprakasam D",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 4th Flr - Anx I - R # 02"
+    },
+    {
+      "empId": "51955",
+      "prefix": "Dr.",
+      "name": "Mekhala Antony",
+      "school": "VITBS",
+      "cabinDetail": "sigma, 2nd floor , Room No 14"
+    },
+    {
+      "empId": "50142",
+      "prefix": "Dr.",
+      "name": "Sasipriya P",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 6th floor, Annex, 10th Cabin"
+    },
+    {
+      "empId": "50198",
+      "prefix": "Dr.",
+      "name": "Uma Maheswari S",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor - New Annex, Cabin No. 8"
+    },
+    {
+      "empId": "51732",
+      "prefix": "Dr.",
+      "name": "Muhammed Shafi M K",
+      "school": "VITBS",
+      "cabinDetail": "Delta block , 4th floor Room No 402, Cabin No 9"
+    },
+    {
+      "empId": "50439",
+      "prefix": "Dr.",
+      "name": "Nilanjan Tewari",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th floor, 707C-Smart Grid Lab"
+    },
+    {
+      "empId": "50318",
+      "prefix": "Prof.",
+      "name": "Nivedita M",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F Annexure Cabin 13"
+    },
+    {
+      "empId": "50440",
+      "prefix": "Prof.",
+      "name": "Sridhar R",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 14"
+    },
+    {
+      "empId": "50432",
+      "prefix": "Dr.",
+      "name": "Shola Usha Rani",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 4F NEW Annexure Cabin 4"
+    },
+    {
+      "empId": "50572",
+      "prefix": "Dr.",
+      "name": "Iyswarya Annapoorani K",
+      "school": "SELECT",
+      "cabinDetail": "AB2, 1st floor , Cabin No 6"
+    },
+    {
+      "empId": "51682",
+      "prefix": "Dr.",
+      "name": "Prakash P",
+      "school": "SCOPE",
+      "cabinDetail": "DELTA BLOCK - 3F Cabin 7"
+    },
+    {
+      "empId": "50740",
+      "prefix": "Dr.",
+      "name": "Umayal C",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th, Annex, Room No 4"
+    },
+    {
+      "empId": "50199",
+      "prefix": "Dr.",
+      "name": "Hannah Grace G",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor-Annex, Cabin No. 1"
+    },
+    {
+      "empId": "52232",
+      "prefix": "Dr.",
+      "name": "Abinaya S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 503 - Cubical 23"
+    },
+    {
+      "empId": "50922",
+      "prefix": "Dr.",
+      "name": "Mohanaprasad K",
+      "school": "SENSE",
+      "cabinDetail": "AB1/7th floor/Main/03"
+    },
+    {
+      "empId": "50582",
+      "prefix": "Dr.",
+      "name": "Kuruseelan S",
+      "school": "SELECT",
+      "cabinDetail": "AB1, 7th floor , Cabin No 5"
+    },
+    {
+      "empId": "50337",
+      "prefix": "Dr.",
+      "name": "Annamalai K",
+      "school": "SMEC",
+      "cabinDetail": "ABI - 513 - Advanced Mechanical Design Lab"
+    },
+    {
+      "empId": "50380",
+      "prefix": "Dr.",
+      "name": "Rajarajeswari S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - IF Annexure Cabin 11"
+    },
+    {
+      "empId": "51751",
+      "prefix": "Dr.",
+      "name": "V.R Balaji",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "50250",
+      "prefix": "Dr.",
+      "name": "Maheswari S",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F ANNEXURE Cabin 1"
+    },
+    {
+      "empId": "50631",
+      "prefix": "Dr.",
+      "name": "Fateh Veer Singh",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor - Annex, Cabin No. 1"
+    },
+    {
+      "empId": "51339",
+      "prefix": "Dr.",
+      "name": "Ayesha SK",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN Cabin 5"
+    },
+    {
+      "empId": "50160",
+      "prefix": "Dr.",
+      "name": "Maheswari N",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 2F 206 LAB (Faculty Cabin INSIDE LAB)"
+    },
+    {
+      "empId": "52194",
+      "prefix": "Dr.",
+      "name": "Abishi Chowdhury",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 503 - Cubical 21"
+    },
+    {
+      "empId": "50632",
+      "prefix": "Dr.",
+      "name": "Jagadeesh Kannan R",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 - 3F MAIN Cabin 13"
+    },
+    {
+      "empId": "51723",
+      "prefix": "Dr.",
+      "name": "Manoj Kumar R",
+      "school": "SMEC",
+      "cabinDetail": "Sigma Block II Floor Right Wing - Cabin No. 5"
+    },
+    {
+      "empId": "51451",
+      "prefix": "Prof.",
+      "name": "Zakkariya T H",
+      "school": "VITSOL",
+      "cabinDetail": "Admin Block 7th Floor - Room No.8"
+    },
+    {
+      "empId": "52191",
+      "prefix": "Prof.",
+      "name": "Vijaya Bharathi Ravikumar",
+      "school": "VITSOL",
+      "cabinDetail": "Health Centre 3rd Floor"
+    },
+    {
+      "empId": "50448",
+      "prefix": "Dr.",
+      "name": "Sridhar V G",
+      "school": "SMEC",
+      "cabinDetail": "ABI - 2nd flr Annex 213 - Product Development Lab"
+    },
+    {
+      "empId": "50030",
+      "prefix": "Dr.",
+      "name": "Brintha Therese A",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th floor/Main/503-IQAC Room"
+    },
+    {
+      "empId": "51952",
+      "prefix": "Dr.",
+      "name": "Biswabhusan Bhuyan",
+      "school": "VITBS",
+      "cabinDetail": "sigma, 2nd floor , Room No 20"
+    },
+    {
+      "empId": "50911",
+      "prefix": "Dr.",
+      "name": "Suganthi K",
+      "school": "SENSE",
+      "cabinDetail": "AB2/2nd floor/Main/04"
+    },
+    {
+      "empId": "50125",
+      "prefix": "Dr.",
+      "name": "Mini Ghosh",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor-Annex, Cabin No. 12"
+    },
+    {
+      "empId": "50506",
+      "prefix": "Dr.",
+      "name": "Venugopal T",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 804 - Renewable Energy Lab"
+    },
+    {
+      "empId": "51707",
+      "prefix": "Dr.",
+      "name": "Chanthini Baskar",
+      "school": "SENSE",
+      "cabinDetail": "AB1/5th Floor/503/Main"
+    },
+    {
+      "empId": "51974",
+      "prefix": "Dr.",
+      "name": "Arockiasamy S",
+      "school": "SAS",
+      "cabinDetail": "AB1, I Floor- Annex, Cabin No. 11"
+    },
+    {
+      "empId": "52215",
+      "prefix": "Dr.",
+      "name": "M. Suguna",
+      "school": "SCOPE",
+      "cabinDetail": "AB1 503 - Cubical 15"
+    },
+    {
+      "empId": "50437",
+      "prefix": "Dr.",
+      "name": "Lenin Babu M C",
+      "school": "SMEC",
+      "cabinDetail": "AB I - 403 B - Dynamics of Machinery Lab"
+    },
+    {
+      "empId": "50046",
+      "prefix": "Dr.",
+      "name": "John Kennedy L",
+      "school": "SAS",
+      "cabinDetail": "AB1, II Floor, Physics Lab"
+    }
+  ]
+}

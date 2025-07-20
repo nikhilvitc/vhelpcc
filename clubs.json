@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Aerospac Club",
+    "description": "The Aerospace Club at VIT Chennai (VITCC) is a student-led organization driven by a passion for aviation and a commitment to innovation in the aerospace industry",
+    "imageUrl": "assets/images/club_logos/Aerospac Club.jpg",
+    "instagramUrl": "https://www.instagram.com/vit.chennai/?hl=en",
+    "linkedinUrl": "",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Android Club",
+    "description": "Android Club is a community of passionate developers focused on learning, creating, and innovating in Android app development.",
+    "imageUrl": "assets/images/club_logos/Android Club.png",
+    "instagramUrl": "https://www.instagram.com/androidvitc/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/android-club-vitc",
+    "websiteUrl": "https://androidclubvitc.vercel.app/",
+    "isTechnical": true
+  },
+  {
+    "name": "Animation Club",
+    "description": "The Animation Club of VIT gives you the platform to showcase, learn and develop skills to dabble with the virtual world",
+    "imageUrl": "assets/images/club_logos/animation_club.jpg",
+    "instagramUrl": "https://www.instagram.com/vit_animation/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/in/animation-club-vit-294b62bb",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Arignar Anna Tamil Mandram",
+    "description": "Arignar Anna Tamil Mandram at VIT Chennai promotes the Tamil language and its rich culture among students by organizing events like poem recitals and article presentations.",
+    "imageUrl": "assets/images/club_logos/AATM_club.jpg",
+    "instagramUrl": "https://www.instagram.com/thamizh_mandram_vitcc/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/in/tharun-kumar-91710728b",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Autonomous Unmanned Vehicle Club",
+    "description": "The Autonomous Unmanned Vehicle Club (AUVC) at VIT Chennai is a technical club dedicated to the design and development of autonomous vehicles, including drones and underwater robots.",
+    "imageUrl": "assets/images/club_logos/AUVC.jpg",
+    "instagramUrl": "https://www.instagram.com/auvc_vitcc/",
+    "linkedinUrl": "https://in.linkedin.com/company/auvc-vit-chennai",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Autovit",
+    "description": "A Multi-disciplinary Club integrating robotics automation",
+    "imageUrl": "assets/images/club_logos/AUTOVIT.jpg",
+    "instagramUrl": "https://www.instagram.com/autovit.vitc/",
+    "linkedinUrl": "https://in.linkedin.com/company/autovit-vit-chennai",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Bengali Literary Association",
+    "description": "A student-led initiative of like-minded people at VIT Vellore showcasing Bengal's rich heritage and culture",
+    "imageUrl": "assets/images/club_logos/bengali_lit_assoc.jpg",
+    "instagramUrl": "https://www.instagram.com/aikyataan_vit/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/bengali-society-vitcc",
+    "websiteUrl": "https://vit.ac.in/campus/clubs/literature",
+    "isTechnical": false
+  },
+  {
+    "name": "Bionary Club",
+    "description": "A Revelation Of Tech Amalgamation in VITC, which brings you close to the future through us in many domains such as AI/ML, Robotics, Automation & much more.",
+    "imageUrl": "assets/images/club_logos/Bionary Club.png",
+    "instagramUrl": "https://www.instagram.com/b.i.o.n.a.r.y/",
+    "linkedinUrl": "https://www.linkedin.com/company/bionary-club-vitc",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Biosphere Club",
+    "description": "The Biosphere Club at VIT Chennai is dedicated to raising awareness about global warming and climate change, aiming to build a sustainable environment for future generations",
+    "imageUrl": "assets/images/club_logos/biosphere.jpg",
+    "instagramUrl": "https://www.instagram.com/biosphere_club_vitcc/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/biosphere-club-vit-chennai",
+    "websiteUrl": "https://the-biosphere-club.vercel.app/",
+    "isTechnical": false
+  },
+  {
+    "name": "Business Innovation Community (BiC)",
+    "description": "Business Innovation Community : Where ideas take shape. Promoting business education and design thinking. Official student driven organisation, VITC",
+    "imageUrl": "assets/images/club_logos/bic.jpg",
+    "instagramUrl": "https://www.instagram.com/bic_vitc/",
+    "linkedinUrl": "https://in.linkedin.com/company/bic-vitc",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "CAD Club",
+    "description": " Community of students learning and working with CAD software.",
+    "imageUrl": "assets/images/club_logos/cad.jpg",
+    "instagramUrl": "https://www.instagram.com/cad_club_vitcc/",
+    "linkedinUrl": "https://in.linkedin.com/company/cad-club-vitcc",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "CITAAA Student Chapter",
+    "description": "Empowering Minds, Nurturing Resilience: Together, we can break the stigma and build a brighter tomorrow.",
+    "imageUrl": "assets/images/club_logos/CITAAA Student Chapter.jpg",
+    "instagramUrl": "https://www.instagram.com/vit.chennai/?hl=en",
+    "linkedinUrl": "",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Code Y-Gen",
+    "description": "Student club at VIT Chennai that focusing on fostering innovation and experimentation in coding and open-source development",
+    "imageUrl": "assets/images/club_logos/codeygen.jpg",
+    "instagramUrl": "https://www.instagram.com/codeygenvitc/",
+    "linkedinUrl": "https://www.linkedin.com/company/code-y-gen",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "CodeChef-VIT Student Chapter",
+    "description": "CodeChef-VIT is a non-commercial organisation for programmers and developers",
+    "imageUrl": "assets/images/club_logos/codechef.jpg",
+    "instagramUrl": "https://www.instagram.com/codechefvit/T/",
+    "linkedinUrl": "https://in.linkedin.com/company/codechef-vitc",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Culture It",
+    "description": "CULTURE IT is a contemporary social club with a vision of celebrating cultural diversity",
+    "imageUrl": "assets/images/club_logos/Culture It.jpg",
+    "instagramUrl": "https://www.instagram.com/cultureit.vitcc/",
+    "linkedinUrl": "https://in.linkedin.com/company/cultureit-vitcc",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "CYSCOM",
+    "description": "CYbersecurity Students' COMmunity of VIT Chennai. Recognised by AICTE, Govt. of India",
+    "imageUrl": "assets/images/club_logos/CYSCOM.png",
+    "instagramUrl": "https://www.instagram.com/cyscomvit/",
+    "linkedinUrl": "https://in.linkedin.com/company/cyscomvit",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Data Science Club",
+    "description": "VIT Chennai's first-ever Data Science Club. Where data meets insight and innovation takes flight",
+    "imageUrl": "assets/images/club_logos/Data Science Club.png",
+    "instagramUrl": "https://www.instagram.com/datascienceclub.vitc/",
+    "linkedinUrl": "https://in.linkedin.com/company/dscvitcc",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Designers Club",
+    "description": "Designers Club, VIT Chennai, is a vibrant community of creative minds. Fostering innovation and collaboration, it serves as a platform for aspiring designers to explore their artistic talents.",
+    "imageUrl": "assets/images/club_logos/Designers Club.jpg",
+    "instagramUrl": "https://www.instagram.com/designersclubvitcc/",
+    "linkedinUrl": "https://in.linkedin.com/company/designersclubvitcc",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Dance Club",
+    "description": "The Dance Club at VIT University, with 100+ members across six dynamic crews, excels in national fests and prestigious competitions, consistently earning accolades.",
+    "imageUrl": "assets/images/club_logos/Dance Club.png",
+    "instagramUrl": "https://www.instagram.com/dance_club_vitc/",
+    "linkedinUrl": "https://www.linkedin.com/company/vit-dance-club/",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Dramatics Club",
+    "description": "The Drama, Theatre, Nukkad, Poetry & Standup Club of VIT Chennai",
+    "imageUrl": "assets/images/club_logos/Dramatics Club.png",
+    "instagramUrl": "https://www.instagram.com/vitcdramaticsclub/",
+    "linkedinUrl": "https://www.linkedin.com/company/dramatics-club-vit-chennai/",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Enactus VIT Chennai",
+    "description": "ENACTUS is an international non-profit organization dedicated to inspiring students to improve the world through entrepreneurial action.",
+    "imageUrl": "assets/images/club_logos/Enactus VIT Chennai.jpg",
+    "instagramUrl": "https://www.instagram.com/enactusvitc/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/enactusvitc",
+    "websiteUrl": "https://enactus-website.github.io/website/",
+    "isTechnical": false
+  },
+  {
+    "name": "Entrepreneurship Cell (E-CELL)",
+    "description": "E-Cell VIT Chennai empowers young innovators and fosters startups by cultivating a thriving entrepreneurial ecosystem on campus.",
+    "imageUrl": "assets/images/club_logos/Entrepreneurship Cell E-CELL.jpg",
+    "instagramUrl": "https://www.instagram.com/ecell_vitcc/",
+    "linkedinUrl": "https://www.linkedin.com/company/e-cell-vitchennai/",
+    "websiteUrl": "https://ecellvit.com/",
+    "isTechnical": false
+  },
+  {
+    "name": "Event Managers Club",
+    "description": "Event Managers Club is a club of decided youthful people who co-ordinate, organize, and direct events occurring in VIT Chennai",
+    "imageUrl": "assets/images/club_logos/Event Managers Club.png",
+    "instagramUrl": "https://www.instagram.com/emcvitcc/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/eventmangersclubvitcc",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Fitness Club",
+    "description": "A group of sweaty adolescents who found their passion at the gym/field and want to bring people together through sports and fitness to build a healthy, supportive and strong community.",
+    "imageUrl": "assets/images/club_logos/Fitness Club.jpg",
+    "instagramUrl": "https://www.instagram.com/fitnessclubvitc/",
+    "linkedinUrl": "https://in.linkedin.com/company/fitness-club-vitc",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Fraternity of Young Innovators (FYI)",
+    "description": "'Be the change you want to see in the world.' We took that way too seriously. Be with us to witness the plethora of Breath-taking events and activities. Emerge || Innovate || lead.",
+    "imageUrl": "assets/images/club_logos/Fraternity of Young Innovators FYI.jpg",
+    "instagramUrl": "https://www.instagram.com/fyivitc/?hl=en",
+    "linkedinUrl": "https://www.linkedin.com/company/fraternity-of-young-innovators/",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Game Development Club",
+    "description": "The Club where we forge Interactive Realities line by line",
+    "imageUrl": "assets/images/club_logos/Game Development Club.png",
+    "instagramUrl": "https://www.instagram.com/gamedev_vitc/",
+    "linkedinUrl": "https://www.linkedin.com/company/gdcvitc/",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Girl Up",
+    "description": "Girl Up VIT Chennai is a community of leaders, forerunners and supporters of the gender equality movement. We aim to further the march towards universal equality through education, awareness and advocacy.",
+    "imageUrl": "assets/images/club_logos/Girl Up.jpg",
+    "instagramUrl": "",
+    "linkedinUrl": "https://in.linkedin.com/company/girl-up-vit-chennai",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Google Developer Groups",
+    "description": "This club envisions forming a community that gives society its prowess in domains like Web Development, App Development, Competitive Programming, and much more.",
+    "imageUrl": "assets/images/club_logos/Google Developer Groups.webp",
+    "instagramUrl": "https://www.instagram.com/gdg.vitc/",
+    "linkedinUrl": "https://in.linkedin.com/company/gdg-vitc",
+    "websiteUrl": "https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-chennai-india/",
+    "isTechnical": true
+  },
+  {
+    "name": "Hack Club",
+    "description": "A technical club dedicated to improving its member's skills",
+    "imageUrl": "assets/images/club_logos/Hack Club.png",
+    "instagramUrl": "https://www.instagram.com/hackclubvitc/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/hackclubvit",
+    "websiteUrl": "https://apacdirectory.hackclub.com/club/vitc",
+    "isTechnical": true
+  },
+  {
+    "name": "Humanoid Club",
+    "description": "The Official Humanoid Club of VIT Chennai. Integrating Humanity and Technology through Innovation",
+    "imageUrl": "assets/images/club_logos/Humanoid Club.jpg",
+    "instagramUrl": "https://www.instagram.com/humanoidx.vitcc/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/humanoidxvitcc",
+    "websiteUrl": "https://humanoidxvitcc.netlify.app/",
+    "isTechnical": true
+  },
+  {
+    "name": "Internet of Things Community (IoThinC)",
+    "description": "IoThinC is a club of like-minded people who have an interest in the field of Internet of Things.",
+    "imageUrl": "assets/images/club_logos/Internet of Things Community IoThinC.jpg",
+    "instagramUrl": "https://www.instagram.com/iothincvitc/",
+    "linkedinUrl": "https://in.linkedin.com/company/iothincvit",
+    "websiteUrl": "https://iothincvitc.hashnode.dev/",
+    "isTechnical": true
+  },
+  {
+    "name": "Linux Club",
+    "description": "The 'Linux Club' of VIT, Chennai was created to spread awareness of Free and Open Source Software (FOSS) through Linux flavours",
+    "imageUrl": "assets/images/club_logos/Linux Club.png",
+    "instagramUrl": "https://www.instagram.com/lugvitc/",
+    "linkedinUrl": "https://in.linkedin.com/company/lugvitc",
+    "websiteUrl": "https://lugvitc.net/",
+    "isTechnical": true
+  },
+  {
+    "name": "Mathematics Club",
+    "description": "The Mathematics Club sets a pathway for all the students to excel in math, focusing on improving the engagement of the students towards maths and helping them to build their career.",
+    "imageUrl": "assets/images/club_logos/Mathematics Club.jpg",
+    "instagramUrl": "https://www.instagram.com/mathematics.club.vitcc/",
+    "linkedinUrl": "https://in.linkedin.com/company/mathematics-club-vitcc",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Microsoft Innovations Club",
+    "description": "Campus Student Club by Microsoft Student Learn Ambassadors of VIT Chennai",
+    "imageUrl": "assets/images/club_logos/Microsoft Innovations Club.png",
+    "instagramUrl": "https://www.instagram.com/microsoft.innovations.vitc/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/microsoft-innovations-club-vitc",
+    "websiteUrl": "https://micvitc.github.io/",
+    "isTechnical": true
+  },
+  {
+    "name": "Music Club",
+    "description": "Music Club VITCC, one of the oldest and most prestigious clubs at VIT Chennai, brings forward the culmination of some of the most talented musicians from around the country.",
+    "imageUrl": "assets/images/club_logos/Music Club.jpg",
+    "instagramUrl": "https://www.instagram.com/vitcmusicclub/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/in/theritiktiwari",
+    "websiteUrl": "https://musicclubvitc.vercel.app/",
+    "isTechnical": false
+  },
+  {
+    "name": "National Service Scheme (NSS)",
+    "description": "National Service Scheme VITCC Nonprofit organization. Not Me But You ! National Service Scheme, Vellore Institute of Technology, Chennai.",
+    "imageUrl": "assets/images/club_logos/National Service Scheme NSS.jpg",
+    "instagramUrl": "https://www.instagram.com/nssvitchennai/",
+    "linkedinUrl": "https://in.linkedin.com/company/nss-vit-chennai",
+    "websiteUrl": "https://nssvitchennai.netlify.app/",
+    "isTechnical": false
+  },
+  {
+    "name": "Newton School Coding Club",
+    "description": "NSCC aims to establish a competitive coding culture on campus and help students prepare for placements and international programming contests",
+    "imageUrl": "assets/images/club_logos/Newton School Coding Club.jpg",
+    "instagramUrl": "https://www.instagram.com/nscc_vitcc/",
+    "linkedinUrl": "https://in.linkedin.com/company/newton-school-coding-club-vitc",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Open Source Programming Club",
+    "description": "A thriving group committed to promoting open-source development and cooperative innovation is the Open Source Programming Club (OSPC) at VIT Chenna",
+    "imageUrl": "assets/images/club_logos/Open Source Programming Club.jpg",
+    "instagramUrl": "https://www.instagram.com/vit_animation/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/opensource-programming-club-vitc",
+    "websiteUrl": "",
+    "isTechnical": true
+  },
+  {
+    "name": "Photography Club",
+    "description": "Official Photography Club for VIT Chennai",
+    "imageUrl": "assets/images/club_logos/Photography Club.jpg",
+    "instagramUrl": "https://www.instagram.com/photographyclubvitc/",
+    "linkedinUrl": "https://www.linkedin.com/company/photography-club-vit-chennai/",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Pop Culture Club",
+    "description": "The Pop Culture Club of VIT Chennai",
+    "imageUrl": "assets/images/club_logos/Pop Culture Club.jpg",
+    "instagramUrl": "https://www.instagram.com/popculture.vitc/",
+    "linkedinUrl": "",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Quiz Club",
+    "description": "BBQC Quiz Club, VIT Chennai",
+    "imageUrl": "",
+    "instagramUrl": "https://www.instagram.com/vitcquizclub/?hl=en",
+    "linkedinUrl": "",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Red Ribbon Club",
+    "description": "Nonprofit organization. Spreading awareness about taboo and sensitive topics.",
+    "imageUrl": "assets/images/club_logos/Red Ribbon Club.jpg",
+    "instagramUrl": "https://www.instagram.com/rrc_vitcc/",
+    "linkedinUrl": "https://in.linkedin.com/company/red-ribbon-club-vit-chennai",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Rotaract Club",
+    "description": "Social Service & Professional Development✨",
+    "imageUrl": "assets/images/club_logos/Rotaract Club.jpg",
+    "instagramUrl": "https://www.instagram.com/rotaractclubvitcc/?hl=en",
+    "linkedinUrl": "https://www.linkedin.com/company/rotaract-club-vitcc/",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Sahayatha",
+    "description": "Igniting Minds, Lighting Paths Empowering change through education and unity. Join us in shaping brighter tomorrows.",
+    "imageUrl": "assets/images/club_logos/Sahayatha.jpg",
+    "instagramUrl": "https://www.instagram.com/sahayatha_club_vitc/",
+    "linkedinUrl": "https://www.linkedin.com/company/sahayatha-club-vitc-sahayatha/",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Seraphic Student Chapter",
+    "description": "Seraphic: Painting Minds with Care, Brushing Strokes of Mental Wellness",
+    "imageUrl": "assets/images/club_logos/Seraphic Student Chapter.jpg",
+    "instagramUrl": "",
+    "linkedinUrl": "https://in.linkedin.com/company/chapter-seraphic-at-vit-chennai",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "The Socrates Club",
+    "description": "A community of passionate thinkers and seekers of knowledge, dedicated to exploring the depths of philosophical ideas and fostering intellectual discussions.",
+    "imageUrl": "assets/images/club_logos/The Socrates Club.jpg",
+    "instagramUrl": "https://www.instagram.com/socratesclubvitc/?hl=en",
+    "linkedinUrl": "https://www.linkedin.com/company/chapter-seraphic-at-vit-chennai/",
+    "websiteUrl": "https://socratesclubvitc.github.io/",
+    "isTechnical": false
+  },
+  {
+    "name": "Sports Club",
+    "description": "Your next game starts here🏅",
+    "imageUrl": "assets/images/club_logos/Sports Club.jpg",
+    "instagramUrl": "https://www.instagram.com/sportsclub_vitcc/",
+    "linkedinUrl": "",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "TEDxVITChennai",
+    "description": "We're bringing ideas worth spreading straight to VIT Chennai. This is a chance to enhance our on-going self-education by cutting edge and progressive ideas from speakers in our local community.",
+    "imageUrl": "assets/images/club_logos/TEDxVITChennai.jpg",
+    "instagramUrl": "https://www.instagram.com/tedxvitchennai/",
+    "linkedinUrl": "https://in.linkedin.com/company/tedxvitchennai",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "Trekking Club",
+    "description": "We don't conquer mountains, we conquer ourselves.",
+    "imageUrl": "assets/images/club_logos/Trekking Club.jpg",
+    "instagramUrl": "https://www.instagram.com/trekkingclubvit/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/trekking-club-vit-chennai",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "VITC Film Society",
+    "description": "LIGHTS•LENS•LEGACY",
+    "imageUrl": "assets/images/club_logos/VITC Film Society.jpg",
+    "instagramUrl": "https://www.instagram.com/filmsocvitc/",
+    "linkedinUrl": "",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "VITC Debate Society",
+    "description": "From public speaking to Model United Nations, it all starts here.",
+    "imageUrl": "assets/images/club_logos/VITC Debate Society.jpg",
+    "instagramUrl": "https://www.instagram.com/thedebatesocietyvitc/",
+    "linkedinUrl": "https://in.linkedin.com/company/the-debate-society-of-vitc",
+    "websiteUrl": "",
+    "isTechnical": false
+  },
+  {
+    "name": "VITC Radio (Voice-It)",
+    "description": "Connecting students through vibrant events, creative exposure, and a shared rhythm, bridging our campus with the world beyond.",
+    "imageUrl": "assets/images/club_logos/VITC Radio Voice-It.jpg",
+    "instagramUrl": "https://www.instagram.com/voiceit_vitcc/",
+    "linkedinUrl": "https://in.linkedin.com/company/voice-it-club",
+    "websiteUrl": "https://vit-voice-it.netlify.app/",
+    "isTechnical": false
+  },
+  {
+    "name": "VIT Finance and Management Club",
+    "description": "Fostering a community of passionate individuals, the Finance and Management Club at VIT Chennai is actively promoting finance and management as valuable career paths through engaging events and workshops.",
+    "imageUrl": "assets/images/club_logos/VIT Finance and Management Club.jpg",
+    "instagramUrl": "https://www.instagram.com/vitfam_/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/vitfam",
+    "websiteUrl": "https://vitfam.vercel.app/",
+    "isTechnical": false
+  },
+  {
+    "name": "Virtual Reality Club",
+    "description": "The Official Virtual Reality Club at VIT Chennai",
+    "imageUrl": "assets/images/club_logos/Virtual Reality Club.png",
+    "instagramUrl": "https://www.instagram.com/avr_vitc/",
+    "linkedinUrl": "https://in.linkedin.com/in/vr-club-vitc-a495b7262",
+    "websiteUrl": "https://vr-club-vitc.netlify.app/",
+    "isTechnical": true
+  },
+  {
+    "name": "Zerobugs Club",
+    "description": "Zero Bugs Club comprises of proficient coders and tech savvy students from VIT Chennai, building innovative software projects to solve various complex problems",
+    "imageUrl": "assets/images/club_logos/Zerobugs Club.png",
+    "instagramUrl": "https://www.instagram.com/zbcvitc/?hl=en",
+    "linkedinUrl": "https://in.linkedin.com/company/zero-bugs-club",
+    "websiteUrl": "",
+    "isTechnical": true
+  }
+]

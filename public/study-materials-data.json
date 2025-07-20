@@ -1,0 +1,534 @@
+{
+  "studyMaterials": [
+    {
+      "courseCode": "BENG101L",
+      "courseName": "Technical Communication",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1qQ09nwVwEmFdYRAIDmPfe4pJTYC6abEw"
+    },
+    {
+      "courseCode": "BEEE102L",
+      "courseName": "Basic Electrical and Electronics Engineering",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1qAig7bUHDHhgzE2NctTO3GcCT9JOSQeu"
+    },
+    {
+      "courseCode": "BCSE203L",
+      "courseName": "Circuit Theory",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1uATK7VMJUkXcilpQHkWoKxBCcl4V7sCO"
+    },
+    {
+      "courseCode": "BHUM104L",
+      "courseName": "Macro Economics",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1LGTVoQj57Vi7SpOejRa7zjGbLN7oQ6Ob?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE428L",
+      "courseName": "Autonomous Drones",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1t4T2sDAqWLhnMQwsoJsl4fWu7GCBv4Bq"
+    },
+    {
+      "courseCode": "BCSE355L",
+      "courseName": "AWS Solutions Architect",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1adnLY6SsJpBHFeJXmVOmBixaSHe0J4ne?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE202L",
+      "courseName": "DSA",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1-RPc6u8dWNTT61gQzalJRmNJwAGeaOY1?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE404L",
+      "courseName": "Internet and Web Programming",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1eVvjyvcdngx8kF8KWsXc9gAYpWFbzA8N?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE409L",
+      "courseName": "Natural Language Processing",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1N7UnRXYUHE1cZtnc-fUAGZRt-TG2vi6C?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE351E",
+      "courseName": "Internet of Things",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1AIOAzjrNen0PJrd8N5IUf82AwuoFZn7h?usp=drive_link"
+    },
+    {
+      "courseCode": "BMAT201L",
+      "courseName": "Complex Variables and Linear Algebra",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1vznGfhkzAjvYKbfObwKpiudfXxlTy80R?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE304P",
+      "courseName": "Analog Communications Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1TLhjN7wbfbemyjhkBQllmxYNVvGMuEOd"
+    },
+    {
+      "courseCode": "BECE305P",
+      "courseName": "Antenna & Microwave Engineering (Lab)",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1jyew3l2g9MfzYOujIL170WlCSipsYCgl"
+    },
+    {
+      "courseCode": "BCSE324L",
+      "courseName": "Foundations of Blockchain Technology",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1nLDR_j5wzbRQp5fEghvsqOERZLRvi7QQ?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE307L",
+      "courseName": "Compiler Design",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/138olo7C60V4Sjl8knbb-mpeh56pZVEHW?usp=drive_link"
+    },
+    {
+      "courseCode": "'-",
+      "courseName": "Foreign Language",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1G6AA8_kf5VRJu7ZsRhM_UM1iRRLnkXA0?usp=drive_link"
+    },
+    {
+      "courseCode": "'-",
+      "courseName": "Technical Report Writing",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1T7919v56fuU0e9-HFtfcIfGWI01AiTCi?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE204L",
+      "courseName": "Design and Analysis of Algorithms",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1ei1zJjyS9JyQqlHhTNNXnJusbja5WhMB?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE427L",
+      "courseName": "Cognitive Robotics",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1EpZbti1kJ67tEASvFbIGysXgwFw8v_bV?usp=drive_link"
+    },
+    {
+      "courseCode": "'-",
+      "courseName": "Computer Vision",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1pCubI5QBpcihzf49Aj4tCe7-4CT0UxYQ?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE304L",
+      "courseName": "Theory of Computation",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1uGXmbs9IC8d-Hui1JQs-4FPJ2Po6wdKx?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE317L",
+      "courseName": "Wireless and Mobile Communications",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/12zrvxV_Zo5L96S0hXz4lQ6BgaXvJu1aG?usp=drive_link"
+    },
+    {
+      "courseCode": "BCLE216L",
+      "courseName": "Water Resource Management",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1c-zWeZbhQZQTf4wrXPUWkeBlhfkM6Szl?usp=drive_link"
+    },
+    {
+      "courseCode": "BECM301L",
+      "courseName": "Signal Processing",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1hMwEoz32o9HBNwu5qNwRiKND3ZnPeUCK?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE201L",
+      "courseName": "Electronic Materials & Devices",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1wrkDpIH2hS8wTygn2UGG6sUtO6-8xjdY"
+    },
+    {
+      "courseCode": "BECE304L",
+      "courseName": "Analog Communications",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/148rToqvD7USghsf1EAmXAnJ8QejctbBi"
+    },
+    {
+      "courseCode": "BECE305L",
+      "courseName": "Antenna & Microwave Engineering",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/148rToqvD7USghsf1EAmXAnJ8QejctbBi"
+    },
+    {
+      "courseCode": "BMAT202P",
+      "courseName": "Probability and Statistics Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/13ArKNusYUkQjS8CgW_27-NSO7IuBwp4m?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE305L",
+      "courseName": "Embedded Systems",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1mRLMrJPb8sq_Sl_hdLjekJG8iu-8v21k?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE316L",
+      "courseName": "Design of Smart Cities",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1ywql_wXtzHMFCkpS7XAj5g41DmgSZZdA?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE422L",
+      "courseName": "Robot Modeling and Simulation",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1Sslipm9XjYmWwXrcJYrl436b8GfNPQIS?usp=drive_link"
+    },
+    {
+      "courseCode": "'-",
+      "courseName": "Java",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1v6OrDz0oZ8wJWL-8VSl7n5-28aWzv24y?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE414L",
+      "courseName": "High Performance Computing",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1a0rIIqolCJqfMiaJeqFbhOHhmRoMzbmN?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE202L",
+      "courseName": "Signals and Systems",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1JrwSrY_RkJ9l4N6csDS3F-kvvd21HlzZ?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE420L",
+      "courseName": "Sensors, Actuators and Signal Conditioning",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1uOKC4JDjMeh5A8GSVcpHAM2v2GGa7R3Y?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE425L",
+      "courseName": "Robotic Perception",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1z16tvlgN8syJtJJrNMPJEM58PO88AuTM?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE318L",
+      "courseName": "Optical Fiber Communications",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1NfFN6LU3T3ZClPZXDMI_varwzPvTHMlC?usp=drive_link"
+    },
+    {
+      "courseCode": "BSTS301P",
+      "courseName": "Advanced Competitive Coding",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1KhCXmqWT-2Wl_QpkRkZiARZlcyxp7v-M"
+    },
+    {
+      "courseCode": "BECE355L",
+      "courseName": "AWS for Cloud Computing",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1O3qoSCVoPFx1eKwccEsyeyDMOCrjJc2N?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE209L",
+      "courseName": "Machine Learning",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/183dC5RxuXOnQoNB2coMe-c22obsWQWQv?usp=drive_link"
+    },
+    {
+      "courseCode": "BECM301P",
+      "courseName": "Signal Processing Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/12a-ldf7rB3QdKfkSbdFSDSmEhtXVgHkA?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE301L",
+      "courseName": "Software Engineering",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1nsNCX96Y9DDFtb2bPcY5bIYhDTuF4sBg?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE302P",
+      "courseName": "Database Systems (Lab)",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/138FLymG3URCSgmWP8g4406CYDRK1n86-?usp=drive_link"
+    },
+    {
+      "courseCode": "BEE412L",
+      "courseName": "Sensors and Actuators",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1uvuVlAd29kxexsDGk8kHPTscHVu49XUB?usp=drive_link"
+    },
+    {
+      "courseCode": "BHUM109L",
+      "courseName": "Social Work and Sustainability",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/15r5tv5bSUtjrnuDeWjGGq5Czq3_6dQxq?usp=drive_link"
+    },
+    {
+      "courseCode": "BCLE215L",
+      "courseName": "Waste Management",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1KeLK0Tpvf6NlWil7IF2Nw4TK5_CGkYTs?usp=drive_link"
+    },
+    {
+      "courseCode": "BMAT102L",
+      "courseName": "Differential Equation and Transformations",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/10v1MVAcrpkEM_Q94mBpvllOE94oxeFm_"
+    },
+    {
+      "courseCode": "BECE401L",
+      "courseName": "Computer Communications and Networks",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1YQmTve6qFFGrQe3x4xbooDzrrKEkZzYP?usp=drive_link"
+    },
+    {
+      "courseCode": "BMAT205L",
+      "courseName": "Discrete Maths and Graph Theory",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/16niVui1AkVZatwXwzy3PTNlWI4c_xa3m?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE306L",
+      "courseName": "Artificial Intelligence",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1MUz8LbPKI_Q4BDJDwe2HUiJ7QjHA9rRA"
+    },
+    {
+      "courseCode": "BCSE308P",
+      "courseName": "Computer Networks Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1TE_n7W5QeL2eN-N25-DuIJgALjRjOh7h?usp=drive_link"
+    },
+    {
+      "courseCode": "BMAT202L",
+      "courseName": "Probability and Statistics",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1ZUBrou1K0vUDA5rKYB7RKxA59I3gR0Sf"
+    },
+    {
+      "courseCode": "BECM304L",
+      "courseName": "Principles of Communication Systems",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1hp07v-Dr7x-K1xVTSFatko7xuACOnlOn?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE308L",
+      "courseName": "Computer Networks",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1qTXe-ciA2K-l8DWQWNH6vSBF9JGIS4PV?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE421L",
+      "courseName": "Robotics: Kinematics, Dynamics and Motion Control",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1JkAEkMYg4CTchkxsj2Ks5bstwloQyXmx?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE301P",
+      "courseName": "DSP Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1MeMTCSbuwQINw3jnjgdqcn7vr9gZBg3C?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE303P",
+      "courseName": "Operating Systems Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1owlTPxkWyPTYmy8lWG2jFn0EFjT7rWlX?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE204P",
+      "courseName": "Design and Analysis of Algorithms (Lab)",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/10xMqZfg9zxfydlMgGjkPOYk0vhyQ3d2i?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE417L",
+      "courseName": "Machine Vision",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1DiNrbyal55twlU7eNyIYoQnM5CwxRFdr?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE424L",
+      "courseName": "ML for Robotics",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1cx5qf65KL_flOR9UJAcNe5rHAOIy6tK7?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE315L",
+      "courseName": "Wearable Computing",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/12jpcdOtpgr0butSMP1C1dHES-KNYoi6z?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE332L",
+      "courseName": "Deep Learning",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1xeuKIiA3sO75sCliBFV6H2dv1ct73tdh?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE204L",
+      "courseName": "MPMC",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1m4QZETW2ZVrDKit3P3w8uSPN5ss78-4M?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE313L",
+      "courseName": "Fundamentals of Fog Edge and Computing",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1nWlFisAPhgZ4xh7-4xup9klC-y6viowj?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE206L",
+      "courseName": "Foundations of Data Science",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/14Fyw5CI_NgZQJyNhfv1cvi4x5y9RmRVH?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE207L",
+      "courseName": "Random Processes",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1OsMLgutnUzpQhYLqV3CNr_nSmtFHOIOh?usp=drive_link"
+    },
+    {
+      "courseCode": "BHUM107L",
+      "courseName": "Sustainability and Society",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1qUDrBaAs9_06XviC4O29zuHaN9F38lIa?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE416L",
+      "courseName": "Game Programming",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1JKVzuFAOyGxvshMjYRKlDQs6XxkQ4VGE?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE412L",
+      "courseName": "Parallel Computing",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1wL-7WQrGhKtY4uvNhBHK10d_cZJ6fLBV?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE307P",
+      "courseName": "Compiler Design Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1V0meEVs57VyJ-NMWAN2ckzz2mDAWrTZl?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE301L",
+      "courseName": "DSP",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1CLCW9UQnglE4kVMIndVNiGy0O8D-adpm?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE205L",
+      "courseName": "Computer Architecture and Organization",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1UF-YTfqB2lXKdpnCucA1Czn1v1rT2_8v?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE403E",
+      "courseName": "Embedded Systems Design",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1-6Kj_i4hp52AIKHD2V3GsJ0rI5X8WlXa?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE418L",
+      "courseName": "Explainable AI",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1MxOd1GfiUtJzMC2XGL7t-LxP4GBAWo-w?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE409E",
+      "courseName": "Sensor Technology",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1sPRUQaPCYAnhf7w4zQvW-WlTRm6Rt2Fy?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE312L",
+      "courseName": "Robotics and Automation",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1Ila4xdCFmfBjRXF2NpY7_634WWGnd5qU?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE415L",
+      "courseName": "Human Computer Interaction",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/12EgftBa0Qo07ujBsnWUAaXiXQwnCR-qy?usp=drive_link"
+    },
+    {
+      "courseCode": "'-",
+      "courseName": "OOPS",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1qT9833RTR7DMxjYxNRYCLbprTZ0zwbqD?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE320E",
+      "courseName": "Embedded C Programming",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1PlTHHbxZxvpD-PKxuFtmHfU9lqRPtFTJ?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE411L",
+      "courseName": "Cryptography and Network Security",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1_hY-YbBeaqbnMZ388lkttLRI3tG0MV1y?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE306P",
+      "courseName": "Digital Communication Systems (Lab)",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1r7PcPcQYfbVNADEshhPXcbsDuFwsuQd_?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE302L",
+      "courseName": "Database Systems",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1IF7Jfm7OhsqDzaytQOEs6Pd93X93ZPiN?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE204P",
+      "courseName": "MPMC Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/13EvVxdAl6b9IY09ySmHUIcjrFU3Z7Llk?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE102P",
+      "courseName": "DSD Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1qvxUY7SRD-VbTP48Y8XaX8cktl7-oH3a?usp=drive_link"
+    },
+    {
+      "courseCode": "BMGT101",
+      "courseName": "Management and Principles of Leadership",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1r5hEokHuBPlQ2mUL1GlyvUN9sqi_rcz-?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE401L",
+      "courseName": "Internet of Things",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1qdP6QmoNeZsNln7-UrSY-QEkdPUOvjmf?usp=drive_link"
+    },
+    {
+      "courseCode": "'-",
+      "courseName": "Urban Community Development",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1-rBXVF2VBzZHg1NcKVHf1PscWpa7sa7d?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE301P",
+      "courseName": "Software Engineering Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1LU3nv4b-ckKYfyA4sQ4f_EBb3ul0LHfT?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE303L",
+      "courseName": "Operating Systems",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1PuXBbGVq62wKphN6XITEPWlRwG8BTjgC?usp=drive_link"
+    },
+    {
+      "courseCode": "BMGT103L",
+      "courseName": "Organizational Behavior",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1-a1Z9ZF-cxh6Dwy83otqw-DKIfjg0tFi?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE206L",
+      "courseName": "Analog Circuits",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1CsAv4R9N7Za0bIyI0ERTrCnr4Fm6-4hn"
+    },
+    {
+      "courseCode": "BECE203E",
+      "courseName": "Web Programming",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1AbK5Hki-qrF7_B8r5WC9xumx7Ip0nkNY?usp=drive_link"
+    },
+    {
+      "courseCode": "BCHY101L",
+      "courseName": "Engineering Chemistry",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1zQRWlmKTv-30Nq8ZyhUHM2agbxyDO_mn"
+    },
+    {
+      "courseCode": "BECE406E",
+      "courseName": "FPGA Based System Design",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/14Fyw5CI_NgZQJyNhfv1cvi4x5y9RmRVH?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE309L",
+      "courseName": "Cryptography and Network Security (Lab)",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1sRtsixgLzjM2Z6hfkWDtPCSqKwIZmSgY?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE102L",
+      "courseName": "Digital System Design",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1w2bpMe-FM288MU21bqh3MzL-VUokmD4v"
+    },
+    {
+      "courseCode": "BECE205L",
+      "courseName": "EMT",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1xW9pwj9xtJVkdH_NAJwuYvz392xDLkX4?usp=drive_link"
+    },
+    {
+      "courseCode": "BCSE403L",
+      "courseName": "Digital Image Processing",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1Yjp4Zcu5tUXCiX67y_SCn8anRndAb_m8?usp=drive_link"
+    },
+    {
+      "courseCode": "BCLE214L",
+      "courseName": "Global Warming",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1wfnDCO78q3aVk_ZktcJ-AmQvarDsuQ8_?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE302L",
+      "courseName": "Control Systems",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1utVvYhp9T32Rhj1r_tPFzVCJWCAV72NZ?usp=drive_link"
+    },
+    {
+      "courseCode": "BMAT101L",
+      "courseName": "Calculas",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1BlWwX07_IYJOr_9IlONZnn8EmcsBGH3k"
+    },
+    {
+      "courseCode": "BCSE202P",
+      "courseName": "DSA Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1G6ElHQmfswyqpKAjYSNkss6LXtwWLLiQ?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE306L",
+      "courseName": "Digital Communication Systems",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1eWxyHrJrHEivgpqN57WOwK_dh6EMyTy6?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE102L",
+      "courseName": "DSD",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1dDa51V9CaN4PK8t78VBnW_IggcXM81tM?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE409P",
+      "courseName": "Sensor Technology Lab",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/19Jtf1J8ol4LlS_KH1K1dp-xdU1zsvznQ?usp=drive_link"
+    },
+    {
+      "courseCode": "BECE303L",
+      "courseName": "VLSI System Design",
+      "studyMaterialLink": "https://drive.google.com/drive/folders/1AsHWwVVBiF-ggibDEDnsmnVf_Xn7ie8j?usp=drive_link"
+    }
+  ]
+}

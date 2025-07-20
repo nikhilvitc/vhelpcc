@@ -1,0 +1,132 @@
+{
+  "hostelBlocks": [
+    {
+      "id": "a-block",
+      "name": "A Block",
+      "description": "Main hostel block with modern facilities and spacious rooms",
+      "month": "January 2024",
+      "laundrySchedule": [
+        {
+          "date": "1st",
+          "roomRange": "101-150"
+        },
+        {
+          "date": "8th",
+          "roomRange": "151-200"
+        },
+        {
+          "date": "15th",
+          "roomRange": "201-250"
+        },
+        {
+          "date": "22nd",
+          "roomRange": "251-300"
+        },
+        {
+          "date": "29th",
+          "roomRange": "301-350"
+        }
+      ]
+    },
+    {
+      "id": "b-block",
+      "name": "B Block",
+      "description": "Comfortable accommodation with excellent amenities",
+      "month": "February 2024",
+      "laundrySchedule": [
+        {
+          "date": "2nd",
+          "roomRange": "101-150"
+        },
+        {
+          "date": "9th",
+          "roomRange": "151-200"
+        },
+        {
+          "date": "16th",
+          "roomRange": "201-250"
+        },
+        {
+          "date": "23rd",
+          "roomRange": "251-300"
+        }
+      ]
+    },
+    {
+      "id": "c-block",
+      "name": "C Block",
+      "description": "Newly renovated block with state-of-the-art facilities",
+      "month": "March 2024",
+      "laundrySchedule": [
+        {
+          "date": "3rd",
+          "roomRange": "101-150"
+        },
+        {
+          "date": "10th",
+          "roomRange": "151-200"
+        },
+        {
+          "date": "17th",
+          "roomRange": "201-250"
+        },
+        {
+          "date": "24th",
+          "roomRange": "251-300"
+        },
+        {
+          "date": "31st",
+          "roomRange": "301-350"
+        }
+      ]
+    },
+    {
+      "id": "d1-block",
+      "name": "D1 Block",
+      "description": "Premium accommodation with enhanced security features",
+      "month": "April 2024",
+      "laundrySchedule": [
+        {
+          "date": "4th",
+          "roomRange": "101-150"
+        },
+        {
+          "date": "11th",
+          "roomRange": "151-200"
+        },
+        {
+          "date": "18th",
+          "roomRange": "201-250"
+        },
+        {
+          "date": "25th",
+          "roomRange": "251-300"
+        }
+      ]
+    },
+    {
+      "id": "d2-block",
+      "name": "D2 Block",
+      "description": "Modern hostel block with recreational facilities",
+      "month": "May 2024",
+      "laundrySchedule": [
+        {
+          "date": "5th",
+          "roomRange": "101-150"
+        },
+        {
+          "date": "12th",
+          "roomRange": "151-200"
+        },
+        {
+          "date": "19th",
+          "roomRange": "201-250"
+        },
+        {
+          "date": "26th",
+          "roomRange": "251-300"
+        }
+      ]
+    }
+  ]
+}
