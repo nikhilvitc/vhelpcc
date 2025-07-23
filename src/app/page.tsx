@@ -2,30 +2,13 @@
 
 import { useState, useEffect } from 'react';
 import {
-  Wrench,
-  Utensils,
-  BookOpen,
+  Coffee,
+  ArrowRight,
+  X,
+  Loader2,
   Smartphone,
   Laptop,
-  X,
-  Coffee,
-  Pizza,
-  Sandwich,
-  IceCream,
-  Cookie,
-  ChefHat,
-  ArrowRight,
-  Search,
-  MapPin,
-  ChevronDown,
-  AlertCircle,
-  Home,
-  MessageSquare,
-  GraduationCap,
-  Users,
-  Gamepad2,
-  Menu,
-  Loader2
+  AlertCircle
 } from 'lucide-react';
 
 import Header from '@/components/Header';
@@ -52,6 +35,25 @@ const getServiceTypes = async () => {
     }, 500);
   });
 };
+
+// Add types for user and serviceType
+interface User {
+  id: string;
+  email: string;
+  first_name: string;
+  last_name: string;
+  phone: string;
+  address: string;
+  role: 'customer' | 'admin' | 'delivery' | 'phone_vendor' | 'laptop_vendor' | 'restaurant_admin';
+  is_active: boolean;
+  created_at: string;
+  updated_at: string;
+}
+
+interface ServiceType {
+  name: string;
+  is_active: boolean;
+}
 
 // Loading Screen Component
 const LoadingScreen = () => {
@@ -116,25 +118,25 @@ export default function HomePage() {
   const [showRepairPopup, setShowRepairPopup] = useState(false);
   const [showFoodPopup, setShowFoodPopup] = useState(false);
   const [showAcademicsPopup, setShowAcademicsPopup] = useState(false);
-  const [serviceTypes, setServiceTypes] = useState([]);
+  const [serviceTypes, setServiceTypes] = useState<ServiceType[]>([]);
   const [isLoadingServices, setIsLoadingServices] = useState(false);
   const [isCheckingAuth, setIsCheckingAuth] = useState(true);
-  const [currentUser, setCurrentUser] = useState(null);
-  const [loadingCard, setLoadingCard] = useState(null);
+  const [currentUser, setCurrentUser] = useState<User | null>(null);
+  const [loadingCard, setLoadingCard] = useState<string | null>(null);
 
   // Check user role and redirect vendors to their dashboards
   useEffect(() => {
     const checkUserAndRedirect = async () => {
       try {
         const user = await getCurrentUser();
-        setCurrentUser(user);
+        setCurrentUser(user as User | null);
 
         if (user) {
-          if (user.role === 'phone_vendor') {
+          if ((user as User).role === 'phone_vendor') {
             window.open('/admin/phone-vendor', '_blank');
             return;
           }
-          if (user.role === 'laptop_vendor') {
+          if ((user as User).role === 'laptop_vendor') {
             window.open('/admin/laptop-vendor', '_blank');
             return;
           }
@@ -155,10 +157,10 @@ export default function HomePage() {
       try {
         setIsLoadingServices(true);
         const result = await getServiceTypes();
-        if (result.success) {
-          setServiceTypes(result.data || []);
+        if ((result as { success: boolean }).success) {
+          setServiceTypes((result as { data: ServiceType[] }).data || []);
         } else {
-          console.error('Failed to fetch service types:', result.error);
+          console.error('Failed to fetch service types:', (result as { error?: string }).error);
         }
       } catch (error) {
         console.error('Error fetching service types:', error);
@@ -170,7 +172,7 @@ export default function HomePage() {
     fetchServiceTypes();
   }, []);
 
-  const handleCardClick = async (cardId) => {
+  const handleCardClick = async (cardId: string) => {
     setLoadingCard(cardId);
     
     // Simulate loading delay

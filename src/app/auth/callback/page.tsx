@@ -9,7 +9,8 @@ export default function AuthCallbackPage() {
   const [status, setStatus] = useState<'loading' | 'success' | 'error'>('loading');
   const [message, setMessage] = useState('');
   const router = useRouter();
-  const searchParams = useSearchParams();
+  const returnUrl = useSearchParams().get('returnUrl');
+  const serviceContext = useSearchParams().get('serviceContext');
 
   useEffect(() => {
     const handleAuthCallback = async () => {
@@ -79,12 +80,7 @@ export default function AuthCallbackPage() {
 
             // Execute any pending actions
             try {
-              const pendingAction = sessionStorage.getItem('pendingAction');
-              const returnUrl = sessionStorage.getItem('returnUrl');
-              const serviceContext = sessionStorage.getItem('serviceContext');
-
               // Clean up session storage
-              sessionStorage.removeItem('pendingAction');
               sessionStorage.removeItem('returnUrl');
               sessionStorage.removeItem('serviceContext');
 
@@ -127,7 +123,7 @@ export default function AuthCallbackPage() {
     };
 
     handleAuthCallback();
-  }, [router]);
+  }, [router, returnUrl, serviceContext]);
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">

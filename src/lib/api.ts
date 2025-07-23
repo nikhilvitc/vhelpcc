@@ -18,7 +18,7 @@ export interface ApiError {
   errors?: Record<string, string[]>;
 }
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000/api';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://vhelpcc.onrender.com/api';
 
 // Generic API request function
 async function apiRequest<T>(
@@ -284,7 +284,7 @@ export const formPersistence = {
       throw new Error('Authentication required');
     }
 
-    const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000/api';
+    const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://vhelpcc.onrender.com/api';
     const response = await fetch(`${API_BASE_URL}/repair/orders`, {
       method: 'POST',
       headers: {

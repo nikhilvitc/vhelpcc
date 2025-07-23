@@ -87,7 +87,7 @@ Edit `.env.local` with your configuration:
 ```env
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-NEXT_PUBLIC_API_URL=http://localhost:5000/api
+NEXT_PUBLIC_API_URL=https://vhelpcc.onrender.com/api
 ```
 
 Start the frontend:

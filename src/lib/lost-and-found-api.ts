@@ -3,7 +3,7 @@
 import { getCurrentUserSync } from './auth';
 import { supabase } from './auth';
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000/api';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://vhelpcc.onrender.com/api';
 
 export interface LostAndFoundItem {
   id: string;

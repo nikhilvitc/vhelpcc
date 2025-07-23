@@ -39,7 +39,7 @@ interface TabType {
 
 export default function RestaurantDashboard() {
   const router = useRouter();
-  const [user, setUser] = useState<any>(null);
+  const [user, setUser] = useState<unknown>(null);
   const [restaurant, setRestaurant] = useState<Restaurant | null>(null);
   const [orders, setOrders] = useState<FoodOrder[]>([]);
   const [menuItems, setMenuItems] = useState<MenuItem[]>([]);

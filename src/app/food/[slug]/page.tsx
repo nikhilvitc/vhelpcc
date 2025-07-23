@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
+import Link from 'next/link';
 import {
   ArrowLeft,
   Clock,
@@ -10,8 +11,6 @@ import {
   ShoppingCart,
   Search,
   Filter,
-  MapPin,
-  Phone,
   ShieldX
 } from 'lucide-react';
 import Header from '@/components/Header';
@@ -38,7 +37,6 @@ export default function RestaurantPage() {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [isCartOpen, setIsCartOpen] = useState(false);
-  const [cart, setCart] = useState<Cart | null>(null);
   const [cartItemCount, setCartItemCount] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
   const [showPreviousOrders, setShowPreviousOrders] = useState(false);
@@ -85,11 +83,9 @@ export default function RestaurantPage() {
   // Load cart and listen for updates
   useEffect(() => {
     const currentCart = getCart();
-    setCart(currentCart);
     setCartItemCount(getCartItemCount(currentCart));
     
     const unsubscribe = useCartListener((updatedCart) => {
-      setCart(updatedCart);
       setCartItemCount(getCartItemCount(updatedCart));
     });
     

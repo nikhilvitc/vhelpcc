@@ -8,7 +8,7 @@ import { ArrowRightOnRectangleIcon } from '@heroicons/react/24/outline';
 
 export default function AdminDashboardPage() {
   const router = useRouter();
-  const [user, setUser] = useState<any>(null);
+  const [user, setUser] = useState<unknown>(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {

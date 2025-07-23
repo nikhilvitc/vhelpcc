@@ -2,18 +2,17 @@
 
 import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
-import { getCurrentUser, isLaptopVendor, logout } from '@/lib/auth';
+import { getCurrentUser, logout } from '@/lib/auth';
 import DashboardStats from '@/components/admin/DashboardStats';
 import OrderManagement from '@/components/admin/OrderManagement';
 
 import ServiceControls from '@/components/admin/ServiceControls';
 import VendorAnalytics from '@/components/admin/VendorAnalytics';
-import { RepairOrder } from '@/lib/repair-api';
 import useRealtimeOrders from '@/hooks/useRealtimeOrders';
 
 const LaptopVendorDashboard: React.FC = () => {
   const router = useRouter();
-  const [user, setUser] = useState<any>(null);
+  const [user, setUser] = useState<unknown>(null);
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState('dashboard');
 
@@ -58,12 +57,6 @@ const LaptopVendorDashboard: React.FC = () => {
     } catch (error) {
       console.error('Logout failed:', error);
     }
-  };
-
-  const handleOrderUpdate = (orderId: string, newStatus: string, notes?: string) => {
-    // This will be handled by the OrderManagement component
-    // We can add additional logic here if needed
-    console.log('Order updated:', { orderId, newStatus, notes });
   };
 
   if (loading) {
