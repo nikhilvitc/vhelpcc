@@ -6,9 +6,7 @@ import {
   getRestaurantOrders, 
   getRestaurantMenuItems,
   getRestaurantStats,
-  createRestaurantMenuItem,
-  updateRestaurantMenuItem,
-  updateRestaurantOrderStatus
+  createRestaurantMenuItem
 } from '@/lib/restaurant-admin-api';
 
 export default function TestRestaurantAdminPage() {

@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
-import { useRouter, useSearchParams } from 'next/navigation';
+import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { Eye, EyeOff, Lock, CheckCircle, AlertCircle, ArrowLeft, Shield, Loader2, Key, RefreshCw } from 'lucide-react';
 
@@ -253,7 +253,6 @@ export default function ResetPasswordPage() {
   const [token, setToken] = useState('');
   const [isValidToken, setIsValidToken] = useState<boolean | null>(null);
   
-  const router = useRouter();
   const searchParams = useSearchParams();
 
   const {

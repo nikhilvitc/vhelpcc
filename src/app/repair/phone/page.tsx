@@ -17,10 +17,8 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import Header from '@/components/Header';
-import Footer from '@/components/Footer';
 import RepairForm from '@/components/RepairForm';
 import PreviousOrders from '@/components/PreviousOrders';
 import { ArrowLeft, History, AlertCircle } from 'lucide-react';

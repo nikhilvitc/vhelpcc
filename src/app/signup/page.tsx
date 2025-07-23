@@ -8,8 +8,7 @@ import Link from 'next/link';
 import { Eye, EyeOff, Mail, Lock, User, UserPlus, X, CheckCircle, ArrowLeft, Phone, MapPin, Loader2 } from 'lucide-react';
 
 import { signupSchema, SignupFormData } from '@/lib/validations';
-import { signup, executePendingAction } from '@/lib/auth';
-import { executePendingCartAction } from '@/lib/cart';
+import { signup } from '@/lib/auth';
 
 // Enhanced Loading Screen Component (matching home page style)
 const LoadingScreen = ({ message = "Creating your account..." }) => {
@@ -31,6 +30,7 @@ const LoadingScreen = ({ message = "Creating your account..." }) => {
 
 // Header Component (matching the design from Header.jsx)
 const SignupHeader = () => {
+  const router = useRouter();
   return (
     <header className="bg-[#233d8e] relative overflow-hidden z-50">
       {/* Background decoration */}
@@ -158,7 +158,7 @@ export default function SignupPage() {
       `}</style>
 
       <div className="h-screen bg-[#233d8e] relative overflow-hidden flex flex-col">
-        {/* <SignupHeader /> */}
+        <SignupHeader />
         
         {/* Background Images */}
         <div className="absolute left-4 top-20 w-16 h-16 opacity-30 hidden lg:block z-0">

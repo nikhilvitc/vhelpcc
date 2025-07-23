@@ -1,9 +1,8 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { ArrowLeft, Search, Plus, MapPin, Calendar, User, Phone, Mail, Filter, Eye, CheckCircle, Upload, X } from 'lucide-react';
+import { ArrowLeft, Search, Plus, MapPin, Calendar, User, Phone } from 'lucide-react';
 import Header from '@/components/Header';
-import Footer from '@/components/Footer';
 import Link from 'next/link';
 import { lostAndFoundApi, LostAndFoundItem, CreateLostAndFoundData } from '@/lib/lost-and-found-api';
 import { useLostAndFoundFormPersistence } from '@/hooks/useLostAndFoundFormPersistence';
@@ -34,7 +33,6 @@ export default function LostAndFoundPage() {
     isLoading,
     isAutoSubmitting,
     getStoredFormData,
-    clearStoredFormData,
     autoSubmitStoredData,
   } = useLostAndFoundFormPersistence({
     redirectUrl: '/lost-and-found'

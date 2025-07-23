@@ -29,53 +29,6 @@ const LoadingScreen = ({ message = "Signing you in..." }) => {
   );
 };
 
-// Header Component (matching the design from signup)
-const LoginHeader = () => {
-  return (
-    <header className="bg-[#233d8e] relative overflow-hidden z-50">
-      {/* Background decoration */}
-      <div className="absolute inset-0 bg-[#233d8e]"></div>
-      <div className="absolute top-0 right-0 w-48 h-20 opacity-20">
-        <div className="absolute top-1 right-6 text-2xl">✨</div>
-        <div className="absolute top-4 right-12 text-lg">🚀</div>
-        <div className="absolute top-2 right-2 text-xl">💫</div>
-      </div>
-
-      <div className="relative z-10 max-w-7xl mx-auto px-4 py-2">
-        <div className="flex justify-between items-center">
-          {/* Left section */}
-          <div className="flex items-center">
-            <button
-              onClick={() => window.history.back()}
-              className="inline-flex items-center px-3 py-1.5 bg-white/20 backdrop-blur-sm text-white hover:bg-white/30 rounded-lg transition-all duration-300 hover:scale-105 border border-white/20"
-            >
-              <ArrowLeft className="w-4 h-4 mr-2" />
-              <span className="font-medium text-sm">Back</span>
-            </button>
-          </div>
-          
-          {/* Center - Logo */}
-          <div className="flex items-center">
-            <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center shadow-lg">
-              <img src="./assets/logo.png" alt="Logo" className="w-6 h-6" />
-            </div>
-          </div>
-
-          {/* Right section */}
-          <div className="flex items-center">
-            <Link
-              href="/"
-              className="px-3 py-1.5 text-white hover:bg-white/20 backdrop-blur-sm font-medium transition-all duration-300 rounded-lg border border-white/20 hover:border-white/40 text-sm"
-            >
-              Home
-            </Link>
-          </div>
-        </div>
-      </div>
-    </header>
-  );
-};
-
 export default function LoginPage() {
   const [showPassword, setShowPassword] = useState(false);
   const [isLoading, setIsLoading] = useState(false);

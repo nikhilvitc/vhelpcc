@@ -84,13 +84,11 @@ export default function RestaurantPage() {
   useEffect(() => {
     const currentCart = getCart();
     setCartItemCount(getCartItemCount(currentCart));
-    
-    const unsubscribe = useCartListener((updatedCart) => {
-      setCartItemCount(getCartItemCount(updatedCart));
-    });
-    
-    return unsubscribe;
   }, []);
+
+  useCartListener((updatedCart) => {
+    setCartItemCount(getCartItemCount(updatedCart));
+  });
 
   // Filter menu items
   useEffect(() => {

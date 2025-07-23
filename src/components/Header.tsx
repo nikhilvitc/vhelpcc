@@ -4,9 +4,9 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import { authStorage, authHelpers } from '@/lib/api';
-import { getCurrentUserSync, isAuthenticated as checkAuth, logout, useAuthListener, getUserDisplayName } from '@/lib/auth';
+import { getCurrentUserSync, logout, useAuthListener } from '@/lib/auth';
 import { useAuth } from '@/components/AuthProvider';
-import { User, LogOut, ChevronDown, Home, Menu, X, Settings, Shield, Store, ChefHat } from 'lucide-react';
+import { User, LogOut, Home, Menu, X, Settings, Shield, Store, ChefHat } from 'lucide-react';
 
 interface HeaderProps {
   showBackButton?: boolean;
