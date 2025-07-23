@@ -94,7 +94,7 @@ export default function AdminDashboardPage() {
             <h2 className="text-xl font-semibold text-gray-900 mb-4">System Administration</h2>
             <p className="text-gray-600 mb-6">
               As a system administrator, you have access to all service dashboards and can manage 
-              the entire platform. Choose which service area you'd like to manage:
+              the entire platform. Choose which service area you&apos;d like to manage:
             </p>
             
             {/* Navigation Options */}

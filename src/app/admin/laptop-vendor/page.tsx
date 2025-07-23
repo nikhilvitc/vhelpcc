@@ -18,37 +18,31 @@ const LaptopVendorDashboard: React.FC = () => {
 
 
   // Real-time orders for laptop vendor
-  const { getTodaysOrders, getOrdersByStatus } = useRealtimeOrders({
-    serviceType: 'laptop',
-    vendorRole: 'laptop_vendor'
-  });
-
   useEffect(() => {
-    checkAuth();
-  }, []);
+    const checkAuth = async () => {
+      try {
+        const currentUser = await getCurrentUser();
+        
+        if (!currentUser) {
+          router.push('/login?redirect=/admin/laptop-vendor');
+          return;
+        }
 
-  const checkAuth = async () => {
-    try {
-      const currentUser = await getCurrentUser();
-      
-      if (!currentUser) {
+        if (currentUser.role !== 'laptop_vendor' && currentUser.role !== 'admin') {
+          router.push('/');
+          return;
+        }
+
+        setUser(currentUser);
+      } catch (error) {
+        console.error('Auth check failed:', error);
         router.push('/login?redirect=/admin/laptop-vendor');
-        return;
+      } finally {
+        setLoading(false);
       }
-
-      if (currentUser.role !== 'laptop_vendor' && currentUser.role !== 'admin') {
-        router.push('/');
-        return;
-      }
-
-      setUser(currentUser);
-    } catch (error) {
-      console.error('Auth check failed:', error);
-      router.push('/login?redirect=/admin/laptop-vendor');
-    } finally {
-      setLoading(false);
-    }
-  };
+    };
+    checkAuth();
+  }, [router]);
 
   const handleLogout = async () => {
     try {

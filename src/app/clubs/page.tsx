@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { ArrowLeft, Users, Calendar, MapPin, Mail, Phone, Star, Clock, Filter, Search, ExternalLink, Globe, Instagram, Linkedin } from 'lucide-react';
+import { ArrowLeft, Users, Mail, Phone, Star, Clock, Filter, ExternalLink, Globe, Instagram, Linkedin } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Link from 'next/link';
