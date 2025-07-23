@@ -8,7 +8,6 @@ import OrderManagement from '@/components/admin/OrderManagement';
 
 import ServiceControls from '@/components/admin/ServiceControls';
 import VendorAnalytics from '@/components/admin/VendorAnalytics';
-import useRealtimeOrders from '@/hooks/useRealtimeOrders';
 
 const LaptopVendorDashboard: React.FC = () => {
   const router = useRouter();

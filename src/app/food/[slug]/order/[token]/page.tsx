@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
-import { ArrowLeft, CheckCircle, Clock, MapPin, Phone } from 'lucide-react';
+import { ArrowLeft, CheckCircle } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { FoodOrder, Restaurant } from '@/types/food';
@@ -10,7 +10,6 @@ import {
   getRestaurantConfig
 } from '@/lib/restaurants';
 import { findRestaurantBySlugFromDB } from '@/lib/restaurant-utils';
-import { formatPrice } from '@/lib/cart';
 import { getFoodOrderByToken } from '@/lib/food-api';
 import { isAuthenticated, requireAuth } from '@/lib/auth';
 
@@ -108,32 +107,6 @@ export default function OrderConfirmationPage() {
   }
 
   const config = getRestaurantConfig(restaurant);
-
-  const getStatusColor = (status: string) => {
-    switch (status) {
-      case 'pending': return 'text-yellow-600 bg-yellow-100';
-      case 'confirmed': return 'text-blue-600 bg-blue-100';
-      case 'preparing': return 'text-orange-600 bg-orange-100';
-      case 'ready': return 'text-purple-600 bg-purple-100';
-      case 'out_for_delivery': return 'text-indigo-600 bg-indigo-100';
-      case 'delivered': return 'text-green-600 bg-green-100';
-      case 'cancelled': return 'text-red-600 bg-red-100';
-      default: return 'text-gray-600 bg-gray-100';
-    }
-  };
-
-  const getStatusText = (status: string) => {
-    switch (status) {
-      case 'pending': return 'Order Received';
-      case 'confirmed': return 'Order Confirmed';
-      case 'preparing': return 'Being Prepared';
-      case 'ready': return 'Ready for Pickup';
-      case 'out_for_delivery': return 'Out for Delivery';
-      case 'delivered': return 'Delivered';
-      case 'cancelled': return 'Cancelled';
-      default: return status;
-    }
-  };
 
   return (
     <div className="min-h-screen bg-gray-50">

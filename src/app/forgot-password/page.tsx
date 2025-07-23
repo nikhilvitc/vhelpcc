@@ -90,7 +90,7 @@ const SuccessPage = ({ submittedEmail, onTryAgain }) => {
               Check Your Email
             </h1>
             <p className="text-xl text-blue-100 mb-6">
-              We've sent a password reset link to help you regain access to your account securely.
+              We&apos;ve sent a password reset link to help you regain access to your account securely.
             </p>
           </div>
           
@@ -261,7 +261,7 @@ export default function ForgotPasswordPage() {
                       Reset Your Password
                     </h1>
                     <p className="text-xl text-blue-100 mb-6">
-                      No worries! Enter your email and we'll send you a secure link to reset your password and get you back into your account.
+                      No worries! Enter your email and we&apos;ll send you a secure link to reset your password and get you back into your account.
                     </p>
                   </div>
                   

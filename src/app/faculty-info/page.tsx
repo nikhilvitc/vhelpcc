@@ -1,9 +1,8 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { ArrowLeft, GraduationCap, Mail, Phone, MapPin, Clock, Search, Filter, Star, Calendar } from 'lucide-react';
+import { ArrowLeft, GraduationCap, MapPin, Search } from 'lucide-react';
 import Header from '@/components/Header';
-import Footer from '@/components/Footer';
 import Link from 'next/link';
 
 interface Faculty {

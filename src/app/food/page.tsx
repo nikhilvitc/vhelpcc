@@ -3,7 +3,6 @@
 import React, { useState, useEffect } from 'react';
 import { Search, Filter, MapPin, Clock } from 'lucide-react';
 import Header from '@/components/Header';
-import Footer from '@/components/Footer';
 import { RestaurantGrid, RestaurantList } from '@/components/food/RestaurantCard';
 import { Restaurant } from '@/types/food';
 import { getRestaurants } from '@/lib/restaurant-utils';

@@ -2,10 +2,9 @@
 
 import React, { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
-import { ArrowLeft, MapPin, Phone, CreditCard, Clock } from 'lucide-react';
+import { ArrowLeft, Clock } from 'lucide-react';
 import Header from '@/components/Header';
-import Footer from '@/components/Footer';
-import { Restaurant, Cart, FoodOrder } from '@/types/food';
+import { Restaurant, Cart } from '@/types/food';
 import {
   getRestaurantConfig
 } from '@/lib/restaurants';

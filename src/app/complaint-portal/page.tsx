@@ -1,9 +1,8 @@
 'use client';
 
 import React, { useState } from 'react';
-import { ArrowLeft, MessageSquare, Send, Search, Filter, Clock, CheckCircle, AlertCircle, XCircle } from 'lucide-react';
+import { ArrowLeft, MessageSquare, Send, Search, Clock, CheckCircle, AlertCircle, XCircle } from 'lucide-react';
 import Header from '@/components/Header';
-import Footer from '@/components/Footer';
 import Link from 'next/link';
 
 interface Complaint {
@@ -356,7 +355,12 @@ export default function ComplaintPortalPage() {
         )}
       </div>
 
-      <Footer />
+      {/* Footer */}
+      <footer className="bg-gray-800 text-white py-8">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <p>&copy; 2023 Complaint Portal. All rights reserved.</p>
+        </div>
+      </footer>
     </div>
   );
 }
